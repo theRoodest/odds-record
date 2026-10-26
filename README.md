@@ -5,6 +5,8 @@ is private. What is public here:
 
 - `hashes/<date>.sha256`: the SHA-256 of every report written on that date, committed the same morning,
   before any of the games start. A hash proves the report existed, unchanged, at that commit's timestamp.
+  The manifest is append-only: a name already listed keeps its morning hash; a later run of the same sport is
+  saved under a timestamped name (`<sport>-<date>_HHMM.md`) and added, never substituted.
 - `source-commits.txt`: for each date, the commit in the private source repository that holds the reports.
 - `reports/`: the report files themselves, released 7 days after their date, once every game in them has
   started. Verify any released file against its morning hash:
@@ -13,6 +15,12 @@ is private. What is public here:
   shasum -a 256 -c hashes/2026-10-18.sha256
   ```
 
+  Only files named in a manifest are attested. Files released from before 2026-10-18 (the first manifest) and
+  from 2026-10-19 (a run that aborted before publishing) are in no manifest; they are history, not evidence.
+  A file is released only if it still matches its published hash, or if `REDACTIONS.md` lists the change with
+  both hashes. Anything else is held back and named in the private log.
+- `REDACTIONS.md`: the only edits ever made to a hashed file, with the hash before and after. A credential
+  quoted inside an error message is the one reason a line gets changed; a pick never is.
 - A record page (closing-line value, ROI, hit rate, sample sizes and confidence intervals per market) will be
   published here once built.
 
