@@ -1,0 +1,13 @@
+# Only the files publish_record() stages belong here; anything else in this folder is never pushed.
+*
+!source-commits.txt
+!index.html
+!record.json
+!README.md
+!REDACTIONS.md
+!.nojekyll
+!.gitignore
+!hashes/
+!hashes/*.sha256
+!reports/
+!reports/*.md
