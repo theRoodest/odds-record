@@ -1,79 +1,154 @@
 {
- "built_at": "2026-10-27T20:07-04:00",
+ "built_at": "2026-11-04T06:10-05:00",
  "overall": {
   "key": "all",
-  "flagged": 137,
-  "settled": 129,
-  "wins": 73,
-  "losses": 56,
+  "flagged": 285,
+  "settled": 232,
+  "wins": 84,
+  "losses": 148,
   "pushes": 0,
-  "hit_rate": 0.5658914728682171,
-  "roi_flat": 0.03207132032955922,
+  "hit_rate": 0.3620689655172414,
+  "roi_flat": -0.28538136686530113,
   "roi_flat_ci": [
-   -0.1340584527149007,
-   0.19820109337401914
+   -0.4237172672477234,
+   -0.14704546648287886
   ],
-  "roi_staked": -0.007522895012441753,
-  "n_close": 124,
-  "clv_mean": 0.004203912916995887,
+  "roi_staked": -0.08962692651409584,
+  "n_close": 227,
+  "clv_mean": 0.0026966960622929236,
   "clv_ci": [
-   -0.0019003458912582264,
-   0.01030817172525
+   -0.0012015958031763646,
+   0.006594987927762212
   ],
-  "beat_close": 64,
+  "beat_close": 121,
+  "n_close_model": 51,
+  "n_news": 2,
+  "clv_ex_news_mean": 0.0021988287595757407,
+  "n_close_ex_news": 225,
+  "beat_close_ex_news": 119,
   "first": "2026-10-03",
-  "last": "2026-10-27",
+  "last": "2026-11-04",
+  "status": ""
+ },
+ "no_golf": {
+  "key": "all but golf",
+  "flagged": 154,
+  "settled": 148,
+  "wins": 82,
+  "losses": 66,
+  "pushes": 0,
+  "hit_rate": 0.5540540540540541,
+  "roi_flat": 0.04419947896790701,
+  "roi_flat_ci": [
+   -0.12057438139548585,
+   0.20897333933129988
+  ],
+  "roi_staked": 0.025056779563059118,
+  "n_close": 143,
+  "clv_mean": -0.0010418552500521805,
+  "clv_ci": [
+   -0.006978683596901135,
+   0.004894973096796773
+  ],
+  "beat_close": 55,
+  "n_close_model": 51,
+  "n_news": 2,
+  "clv_ex_news_mean": -0.001889353446761802,
+  "n_close_ex_news": 141,
+  "beat_close_ex_news": 53,
+  "first": "2026-10-03",
+  "last": "2026-11-04",
   "status": ""
  },
  "by_sport": {
+  "pga": {
+   "key": "pga",
+   "flagged": 131,
+   "settled": 84,
+   "wins": 2,
+   "losses": 82,
+   "pushes": 0,
+   "hit_rate": 0.023809523809523808,
+   "roi_flat": -0.8660714285714286,
+   "roi_flat_ci": [
+    -1.060782173257965,
+    -0.6713606838848922
+   ],
+   "roi_staked": -0.8691584075997726,
+   "n_close": 84,
+   "clv_mean": 0.009061134605928042,
+   "clv_ci": [
+    0.006572866818046155,
+    0.01154940239380993
+   ],
+   "beat_close": 66,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.009061134605928042,
+   "n_close_ex_news": 84,
+   "beat_close_ex_news": 66,
+   "first": "2026-10-20",
+   "last": "2026-11-04",
+   "status": ""
+  },
   "cfb": {
    "key": "cfb",
-   "flagged": 69,
-   "settled": 64,
-   "wins": 36,
-   "losses": 28,
+   "flagged": 77,
+   "settled": 73,
+   "wins": 41,
+   "losses": 32,
    "pushes": 0,
-   "hit_rate": 0.5625,
-   "roi_flat": 0.007783251304978662,
+   "hit_rate": 0.5616438356164384,
+   "roi_flat": 0.0407233085677906,
    "roi_flat_ci": [
-    -0.2327860705707673,
-    0.24835257318072465
+    -0.19532326668633507,
+    0.27676988382191625
    ],
-   "roi_staked": 0.08940502847358284,
-   "n_close": 62,
-   "clv_mean": 0.01145699855201004,
+   "roi_staked": 0.1527534865156846,
+   "n_close": 71,
+   "clv_mean": 0.004985617757738155,
    "clv_ci": [
-    0.0015078532134626035,
-    0.021406143890557477
+    -0.005013938810042057,
+    0.014985174325518366
    ],
-   "beat_close": 40,
+   "beat_close": 36,
+   "n_close_model": 35,
+   "n_news": 1,
+   "clv_ex_news_mean": 0.004396664376762971,
+   "n_close_ex_news": 70,
+   "beat_close_ex_news": 35,
    "first": "2026-10-03",
-   "last": "2026-10-27",
+   "last": "2026-11-01",
    "status": ""
   },
   "nfl": {
    "key": "nfl",
-   "flagged": 19,
-   "settled": 18,
+   "flagged": 21,
+   "settled": 21,
    "wins": 11,
-   "losses": 7,
+   "losses": 10,
    "pushes": 0,
-   "hit_rate": 0.6111111111111112,
-   "roi_flat": 0.08124980919877663,
+   "hit_rate": 0.5238095238095238,
+   "roi_flat": -0.07321444925819146,
    "roi_flat_ci": [
-    -0.3406446653715056,
-    0.5031442837690588
+    -0.4696728863610429,
+    0.3232439878446599
    ],
-   "roi_staked": 0.004753986428132413,
-   "n_close": 18,
-   "clv_mean": 0.009520273795547747,
+   "roi_staked": -0.1797348378492656,
+   "n_close": 21,
+   "clv_mean": -0.0010219697006495314,
    "clv_ci": [
-    0.0019364061319945523,
-    0.01710414145910094
+    -0.008629064812857183,
+    0.00658512541155812
    ],
-   "beat_close": 13,
+   "beat_close": 9,
+   "n_close_model": 7,
+   "n_news": 0,
+   "clv_ex_news_mean": -0.0010219697006495314,
+   "n_close_ex_news": 21,
+   "beat_close_ex_news": 9,
    "first": "2026-10-04",
-   "last": "2026-10-27",
+   "last": "2026-10-28",
    "status": ""
   },
   "nhl": {
@@ -91,19 +166,24 @@
    ],
    "roi_staked": 0.0535866361014794,
    "n_close": 31,
-   "clv_mean": -0.015803870487656968,
+   "clv_mean": -0.01934113269601264,
    "clv_ci": [
-    -0.02416342311584009,
-    -0.007444317859473843
+    -0.025934126831928306,
+    -0.012748138560096975
    ],
-   "beat_close": 4,
+   "beat_close": 2,
+   "n_close_model": 3,
+   "n_news": 0,
+   "clv_ex_news_mean": -0.01934113269601264,
+   "n_close_ex_news": 31,
+   "beat_close_ex_news": 2,
    "first": "2026-10-04",
    "last": "2026-10-15",
    "status": ""
   },
   "mls": {
    "key": "mls",
-   "flagged": 4,
+   "flagged": 6,
    "settled": 4,
    "wins": 2,
    "losses": 2,
@@ -116,14 +196,19 @@
    ],
    "roi_staked": -0.5080878865937087,
    "n_close": 3,
-   "clv_mean": 0.030863258874108956,
+   "clv_mean": 0.02429073846119249,
    "clv_ci": [
-    -0.013414683396381535,
-    0.07514120114459945
+    -0.022050226834564816,
+    0.0706317037569498
    ],
    "beat_close": 2,
+   "n_close_model": 1,
+   "n_news": 1,
+   "clv_ex_news_mean": 0.0008355172868131922,
+   "n_close_ex_news": 2,
+   "beat_close_ex_news": 1,
    "first": "2026-10-04",
-   "last": "2026-10-24",
+   "last": "2026-11-04",
    "status": ""
   },
   "epl": {
@@ -141,12 +226,17 @@
    ],
    "roi_staked": -0.14556275687348996,
    "n_close": 5,
-   "clv_mean": -0.017132358423788695,
+   "clv_mean": -0.015783701049945576,
    "clv_ci": [
-    -0.02895505893126499,
-    -0.0053096579163124
+    -0.026279531619344598,
+    -0.005287870480546556
    ],
    "beat_close": 0,
+   "n_close_model": 2,
+   "n_news": 0,
+   "clv_ex_news_mean": -0.015783701049945576,
+   "n_close_ex_news": 5,
+   "beat_close_ex_news": 0,
    "first": "2026-10-11",
    "last": "2026-10-11",
    "status": ""
@@ -166,64 +256,79 @@
    ],
    "roi_staked": -1.0,
    "n_close": 1,
-   "clv_mean": 0.0302337164880499,
+   "clv_mean": 0.001571692332709873,
    "clv_ci": [
-    0.0302337164880499,
-    0.0302337164880499
+    0.001571692332709873,
+    0.001571692332709873
    ],
    "beat_close": 1,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.001571692332709873,
+   "n_close_ex_news": 1,
+   "beat_close_ex_news": 1,
    "first": "2026-10-21",
    "last": "2026-10-21",
    "status": ""
   },
   "nba": {
    "key": "nba",
-   "flagged": 1,
-   "settled": 1,
-   "wins": 0,
+   "flagged": 2,
+   "settled": 2,
+   "wins": 1,
    "losses": 1,
    "pushes": 0,
-   "hit_rate": 0.0,
-   "roi_flat": -1.0,
+   "hit_rate": 0.5,
+   "roi_flat": 0.10999999999999988,
    "roi_flat_ci": [
-    -1.0,
-    -1.0
+    -2.0656,
+    2.2855999999999996
    ],
-   "roi_staked": -1.0,
-   "n_close": 1,
-   "clv_mean": 0.06580903144656092,
+   "roi_staked": -0.4231332469649437,
+   "n_close": 2,
+   "clv_mean": 0.018238179857506864,
    "clv_ci": [
-    0.06580903144656092,
-    0.06580903144656092
+    -0.07500068925703908,
+    0.11147704897205281
    ],
    "beat_close": 1,
+   "n_close_model": 1,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.018238179857506864,
+   "n_close_ex_news": 2,
+   "beat_close_ex_news": 1,
    "first": "2026-10-23",
-   "last": "2026-10-23",
+   "last": "2026-11-02",
    "status": ""
   },
   "efl": {
    "key": "efl",
-   "flagged": 1,
-   "settled": 1,
-   "wins": 0,
+   "flagged": 2,
+   "settled": 2,
+   "wins": 1,
    "losses": 1,
    "pushes": 0,
-   "hit_rate": 0.0,
-   "roi_flat": -1.0,
+   "hit_rate": 0.5,
+   "roi_flat": 1.1749999999999998,
    "roi_flat_ci": [
-    -1.0,
-    -1.0
+    -3.088,
+    5.438
    ],
-   "roi_staked": -1.0,
-   "n_close": 1,
-   "clv_mean": 0.015860570282359376,
+   "roi_staked": 0.09270337942767093,
+   "n_close": 2,
+   "clv_mean": 0.008510204444209288,
    "clv_ci": [
-    0.015860570282359376,
-    0.015860570282359376
+    -0.020962380648095056,
+    0.03798278953651363
    ],
    "beat_close": 1,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.008510204444209288,
+   "n_close_ex_news": 2,
+   "beat_close_ex_news": 1,
    "first": "2026-10-24",
-   "last": "2026-10-24",
+   "last": "2026-10-31",
    "status": ""
   },
   "eredivisie": {
@@ -241,12 +346,17 @@
    ],
    "roi_staked": 1.15,
    "n_close": 1,
-   "clv_mean": 0.005712566662599838,
+   "clv_mean": 0.005473525026184534,
    "clv_ci": [
-    0.005712566662599838,
-    0.005712566662599838
+    0.005473525026184534,
+    0.005473525026184534
    ],
    "beat_close": 1,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.005473525026184534,
+   "n_close_ex_news": 1,
+   "beat_close_ex_news": 1,
    "first": "2026-10-24",
    "last": "2026-10-24",
    "status": ""
@@ -266,12 +376,17 @@
    ],
    "roi_staked": -1.0,
    "n_close": 1,
-   "clv_mean": 0.00496247889742063,
+   "clv_mean": -0.022118437968042803,
    "clv_ci": [
-    0.00496247889742063,
-    0.00496247889742063
+    -0.022118437968042803,
+    -0.022118437968042803
    ],
-   "beat_close": 1,
+   "beat_close": 0,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": -0.022118437968042803,
+   "n_close_ex_news": 1,
+   "beat_close_ex_news": 0,
    "first": "2026-10-25",
    "last": "2026-10-25",
    "status": ""
@@ -279,97 +394,273 @@
   "ligamx": {
    "key": "ligamx",
    "flagged": 2,
-   "settled": 0,
-   "wins": 0,
-   "losses": 0,
+   "settled": 2,
+   "wins": 1,
+   "losses": 1,
    "pushes": 0,
-   "hit_rate": null,
-   "roi_flat": null,
-   "roi_flat_ci": null,
-   "roi_staked": null,
-   "n_close": 0,
-   "clv_mean": null,
-   "clv_ci": null,
-   "beat_close": 0,
+   "hit_rate": 0.5,
+   "roi_flat": -0.23684210526315796,
+   "roi_flat_ci": [
+    -1.7326315789473683,
+    1.2589473684210524
+   ],
+   "roi_staked": -0.35770524691539124,
+   "n_close": 2,
+   "clv_mean": 0.02255184837373686,
+   "clv_ci": [
+    -0.11693237230581696,
+    0.16203606905329068
+   ],
+   "beat_close": 1,
+   "n_close_model": 1,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.02255184837373686,
+   "n_close_ex_news": 2,
+   "beat_close_ex_news": 1,
    "first": "2026-10-24",
    "last": "2026-10-24",
+   "status": ""
+  },
+  "wnba": {
+   "key": "wnba",
+   "flagged": 1,
+   "settled": 1,
+   "wins": 1,
+   "losses": 0,
+   "pushes": 0,
+   "hit_rate": 1.0,
+   "roi_flat": 0.8333333333333335,
+   "roi_flat_ci": [
+    0.8333333333333335,
+    0.8333333333333335
+   ],
+   "roi_staked": 0.8333333333333335,
+   "n_close": 1,
+   "clv_mean": 0.04894281782811638,
+   "clv_ci": [
+    0.04894281782811638,
+    0.04894281782811638
+   ],
+   "beat_close": 1,
+   "n_close_model": 1,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.04894281782811638,
+   "n_close_ex_news": 1,
+   "beat_close_ex_news": 1,
+   "first": "2026-10-31",
+   "last": "2026-10-31",
+   "status": ""
+  },
+  "ncaab": {
+   "key": "ncaab",
+   "flagged": 2,
+   "settled": 2,
+   "wins": 0,
+   "losses": 2,
+   "pushes": 0,
+   "hit_rate": 0.0,
+   "roi_flat": -1.0,
+   "roi_flat_ci": [
+    -1.0,
+    -1.0
+   ],
+   "roi_staked": -1.0,
+   "n_close": 2,
+   "clv_mean": -0.0041757284852812215,
+   "clv_ci": [
+    -0.012324305165867022,
+    0.003972848195304579
+   ],
+   "beat_close": 0,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": -0.0041757284852812215,
+   "n_close_ex_news": 2,
+   "beat_close_ex_news": 0,
+   "first": "2026-11-01",
+   "last": "2026-11-02",
    "status": ""
   }
  },
  "by_market": {
+  "pga/top20": {
+   "key": "pga/top20",
+   "flagged": 60,
+   "settled": 35,
+   "wins": 2,
+   "losses": 33,
+   "pushes": 0,
+   "hit_rate": 0.05714285714285714,
+   "roi_flat": -0.6785714285714286,
+   "roi_flat_ci": [
+    -1.142588416090078,
+    -0.21455444105277915
+   ],
+   "roi_staked": -0.784065889780613,
+   "n_close": 35,
+   "clv_mean": 0.013241779989608297,
+   "clv_ci": [
+    0.008554837510519815,
+    0.017928722468696777
+   ],
+   "beat_close": 30,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.013241779989608297,
+   "n_close_ex_news": 35,
+   "beat_close_ex_news": 30,
+   "first": "2026-10-20",
+   "last": "2026-11-04",
+   "status": ""
+  },
+  "pga/top10": {
+   "key": "pga/top10",
+   "flagged": 42,
+   "settled": 22,
+   "wins": 0,
+   "losses": 22,
+   "pushes": 0,
+   "hit_rate": 0.0,
+   "roi_flat": -1.0,
+   "roi_flat_ci": [
+    -1.0,
+    -1.0
+   ],
+   "roi_staked": -1.0,
+   "n_close": 22,
+   "clv_mean": 0.010476235239565403,
+   "clv_ci": [
+    0.00659982090433394,
+    0.014352649574796865
+   ],
+   "beat_close": 20,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.010476235239565403,
+   "n_close_ex_news": 22,
+   "beat_close_ex_news": 20,
+   "first": "2026-10-20",
+   "last": "2026-11-04",
+   "status": ""
+  },
+  "pga/top5": {
+   "key": "pga/top5",
+   "flagged": 29,
+   "settled": 27,
+   "wins": 0,
+   "losses": 27,
+   "pushes": 0,
+   "hit_rate": 0.0,
+   "roi_flat": -1.0,
+   "roi_flat_ci": [
+    -1.0,
+    -1.0
+   ],
+   "roi_staked": -1.0,
+   "n_close": 27,
+   "clv_mean": 0.0024887345181935547,
+   "clv_ci": [
+    0.00039283591187614297,
+    0.004584633124510967
+   ],
+   "beat_close": 16,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.0024887345181935547,
+   "n_close_ex_news": 27,
+   "beat_close_ex_news": 16,
+   "first": "2026-10-20",
+   "last": "2026-11-03",
+   "status": ""
+  },
   "cfb/spread": {
    "key": "cfb/spread",
-   "flagged": 44,
-   "settled": 40,
-   "wins": 23,
-   "losses": 17,
+   "flagged": 46,
+   "settled": 46,
+   "wins": 26,
+   "losses": 20,
    "pushes": 0,
-   "hit_rate": 0.575,
-   "roi_flat": 0.09506515799738627,
+   "hit_rate": 0.5652173913043478,
+   "roi_flat": 0.07657780232879728,
    "roi_flat_ci": [
-    -0.2004770107158386,
-    0.39060732671061116
+    -0.19935949329423586,
+    0.35251509795183045
    ],
-   "roi_staked": 0.2589100705510499,
-   "n_close": 39,
-   "clv_mean": 0.011720441394062583,
+   "roi_staked": 0.24695213194691915,
+   "n_close": 45,
+   "clv_mean": 0.0015231886997326435,
    "clv_ci": [
-    -0.0030058441004306644,
-    0.02644672688855583
+    -0.013267563118762083,
+    0.01631394051822737
    ],
-   "beat_close": 26,
+   "beat_close": 21,
+   "n_close_model": 28,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.0015231886997326435,
+   "n_close_ex_news": 45,
+   "beat_close_ex_news": 21,
    "first": "2026-10-03",
-   "last": "2026-10-27",
+   "last": "2026-10-31",
    "status": "unproven"
   },
   "cfb/ml": {
    "key": "cfb/ml",
-   "flagged": 18,
-   "settled": 18,
-   "wins": 12,
-   "losses": 6,
+   "flagged": 22,
+   "settled": 20,
+   "wins": 13,
+   "losses": 7,
    "pushes": 0,
-   "hit_rate": 0.6666666666666666,
-   "roi_flat": 0.04789935723832495,
+   "hit_rate": 0.65,
+   "roi_flat": 0.13810942151449246,
    "roi_flat_ci": [
-    -0.4427971708220177,
-    0.5385958852986676
+    -0.3962919180359382,
+    0.6725107610649231
    ],
-   "roi_staked": 0.060305575024075395,
-   "n_close": 17,
-   "clv_mean": 0.003936691595280239,
+   "roi_staked": 0.1347835929445818,
+   "n_close": 19,
+   "clv_mean": 0.0006601135688631344,
    "clv_ci": [
-    -0.006610700459775146,
-    0.014484083650335624
+    -0.007181427751196403,
+    0.00850165488892267
    ],
    "beat_close": 8,
+   "n_close_model": 0,
+   "n_news": 1,
+   "clv_ex_news_mean": -0.0018705664787556373,
+   "n_close_ex_news": 18,
+   "beat_close_ex_news": 7,
    "first": "2026-10-03",
-   "last": "2026-10-21",
+   "last": "2026-11-01",
    "status": "unproven"
   },
   "nfl/spread": {
    "key": "nfl/spread",
-   "flagged": 14,
-   "settled": 13,
+   "flagged": 16,
+   "settled": 16,
    "wins": 7,
-   "losses": 6,
+   "losses": 9,
    "pushes": 0,
-   "hit_rate": 0.5384615384615384,
-   "roi_flat": 0.05234509026961858,
+   "hit_rate": 0.4375,
+   "roi_flat": -0.1449696141559349,
    "roi_flat_ci": [
-    -0.4992406002236432,
-    0.6039307807628803
+    -0.6358547088411812,
+    0.34591548052931137
    ],
-   "roi_staked": 0.061272054654079776,
-   "n_close": 13,
-   "clv_mean": 0.015052534758527341,
+   "roi_staked": -0.17178225355070548,
+   "n_close": 16,
+   "clv_mean": -0.00026833203232218966,
    "clv_ci": [
-    0.007919487555035363,
-    0.02218558196201932
+    -0.009271251445465272,
+    0.008734587380820892
    ],
-   "beat_close": 11,
+   "beat_close": 7,
+   "n_close_model": 7,
+   "n_news": 0,
+   "clv_ex_news_mean": -0.00026833203232218966,
+   "n_close_ex_news": 16,
+   "beat_close_ex_news": 7,
    "first": "2026-10-04",
-   "last": "2026-10-27",
+   "last": "2026-10-28",
    "status": "unproven"
   },
   "nhl/total": {
@@ -387,12 +678,17 @@
    ],
    "roi_staked": 0.09860956355910466,
    "n_close": 24,
-   "clv_mean": -0.013444979663115975,
+   "clv_mean": -0.01790733694241582,
    "clv_ci": [
-    -0.02311603135702483,
-    -0.003773927969207119
+    -0.025142769681880082,
+    -0.010671904202951554
    ],
-   "beat_close": 4,
+   "beat_close": 2,
+   "n_close_model": 3,
+   "n_news": 0,
+   "clv_ex_news_mean": -0.01790733694241582,
+   "n_close_ex_news": 24,
+   "beat_close_ex_news": 2,
    "first": "2026-10-04",
    "last": "2026-10-13",
    "status": "unproven"
@@ -412,12 +708,17 @@
    ],
    "roi_staked": -0.3108906085916766,
    "n_close": 7,
-   "clv_mean": -0.023891496171797515,
+   "clv_mean": -0.024257003851201737,
    "clv_ci": [
-    -0.040141228847784996,
-    -0.007641763495810035
+    -0.040208892136997416,
+    -0.008305115565406057
    ],
    "beat_close": 0,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": -0.024257003851201737,
+   "n_close_ex_news": 7,
+   "beat_close_ex_news": 0,
    "first": "2026-10-06",
    "last": "2026-10-15",
    "status": "unproven"
@@ -437,39 +738,49 @@
    ],
    "roi_staked": -0.5361600403541961,
    "n_close": 2,
-   "clv_mean": 0.0097932013986958,
+   "clv_mean": 0.0008355172868131922,
    "clv_ci": [
-    -0.017869127106740615,
-    0.037455529904132215
+    -0.00926975035933331,
+    0.010940784932959694
    ],
    "beat_close": 1,
+   "n_close_model": 1,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.0008355172868131922,
+   "n_close_ex_news": 2,
+   "beat_close_ex_news": 1,
    "first": "2026-10-04",
    "last": "2026-10-24",
    "status": "unproven"
   },
   "cfb/total": {
    "key": "cfb/total",
-   "flagged": 7,
-   "settled": 6,
-   "wins": 1,
+   "flagged": 9,
+   "settled": 7,
+   "wins": 2,
    "losses": 5,
    "pushes": 0,
-   "hit_rate": 0.16666666666666666,
-   "roi_flat": -0.6944444444444443,
+   "hit_rate": 0.2857142857142857,
+   "roi_flat": -0.47313797313797307,
    "roi_flat_ci": [
-    -1.2933333333333332,
-    -0.0955555555555554
+    -1.1397260684421326,
+    0.19345012216618646
    ],
-   "roi_staked": -0.8875436289122828,
-   "n_close": 6,
-   "clv_mean": 0.031052156456069607,
+   "roi_staked": -0.3549420740470129,
+   "n_close": 7,
+   "clv_mean": 0.03898474450043436,
    "clv_ci": [
-    0.012651134307694569,
-    0.04945317860444465
+    0.024972564932645595,
+    0.05299692406822313
    ],
-   "beat_close": 6,
+   "beat_close": 7,
+   "n_close_model": 7,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.03898474450043436,
+   "n_close_ex_news": 7,
+   "beat_close_ex_news": 7,
    "first": "2026-10-05",
-   "last": "2026-10-26",
+   "last": "2026-11-01",
    "status": "unproven"
   },
   "epl/spread": {
@@ -493,6 +804,11 @@
     0.00489196593044253
    ],
    "beat_close": 0,
+   "n_close_model": 2,
+   "n_news": 0,
+   "clv_ex_news_mean": -0.008975894523287481,
+   "n_close_ex_news": 2,
+   "beat_close_ex_news": 0,
    "first": "2026-10-11",
    "last": "2026-10-11",
    "status": "unproven"
@@ -512,12 +828,17 @@
    ],
    "roi_staked": 0.039410071053579285,
    "n_close": 3,
-   "clv_mean": -0.02257000102412284,
+   "clv_mean": -0.020322238734384306,
    "clv_ci": [
-    -0.03868923312000995,
-    -0.006450768928235727
+    -0.03461171714563837,
+    -0.006032760323130243
    ],
    "beat_close": 0,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": -0.020322238734384306,
+   "n_close_ex_news": 3,
+   "beat_close_ex_news": 0,
    "first": "2026-10-11",
    "last": "2026-10-11",
    "status": "unproven"
@@ -537,12 +858,17 @@
    ],
    "roi_staked": -0.22031557517288416,
    "n_close": 5,
-   "clv_mean": -0.004863604708199199,
+   "clv_mean": -0.0034336102392970246,
    "clv_ci": [
-    -0.01928533668630092,
-    0.00955812726990252
+    -0.018771924857902605,
+    0.011904704379308557
    ],
    "beat_close": 2,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": -0.0034336102392970246,
+   "n_close_ex_news": 5,
+   "beat_close_ex_news": 2,
    "first": "2026-10-09",
    "last": "2026-10-13",
    "status": "unproven"
@@ -565,13 +891,18 @@
    "clv_mean": null,
    "clv_ci": null,
    "beat_close": 0,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": null,
+   "n_close_ex_news": 0,
+   "beat_close_ex_news": 0,
    "first": "2026-10-13",
    "last": "2026-10-13",
    "status": "unproven"
   },
   "mls/ml": {
    "key": "mls/ml",
-   "flagged": 1,
+   "flagged": 3,
    "settled": 1,
    "wins": 0,
    "losses": 1,
@@ -584,14 +915,19 @@
    ],
    "roi_staked": -1.0,
    "n_close": 1,
-   "clv_mean": 0.07300337382493527,
+   "clv_mean": 0.07120118080995108,
    "clv_ci": [
-    0.07300337382493527,
-    0.07300337382493527
+    0.07120118080995108,
+    0.07120118080995108
    ],
    "beat_close": 1,
+   "n_close_model": 0,
+   "n_news": 1,
+   "clv_ex_news_mean": null,
+   "n_close_ex_news": 0,
+   "beat_close_ex_news": 0,
    "first": "2026-10-14",
-   "last": "2026-10-14",
+   "last": "2026-11-04",
    "status": "unproven"
   },
   "uel/total": {
@@ -609,12 +945,17 @@
    ],
    "roi_staked": -1.0,
    "n_close": 1,
-   "clv_mean": 0.0302337164880499,
+   "clv_mean": 0.001571692332709873,
    "clv_ci": [
-    0.0302337164880499,
-    0.0302337164880499
+    0.001571692332709873,
+    0.001571692332709873
    ],
    "beat_close": 1,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.001571692332709873,
+   "n_close_ex_news": 1,
+   "beat_close_ex_news": 1,
    "first": "2026-10-21",
    "last": "2026-10-21",
    "status": "unproven"
@@ -640,6 +981,11 @@
     0.06580903144656092
    ],
    "beat_close": 1,
+   "n_close_model": 1,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.06580903144656092,
+   "n_close_ex_news": 1,
+   "beat_close_ex_news": 1,
    "first": "2026-10-23",
    "last": "2026-10-23",
    "status": "unproven"
@@ -659,12 +1005,17 @@
    ],
    "roi_staked": -1.0,
    "n_close": 1,
-   "clv_mean": 0.015860570282359376,
+   "clv_mean": -0.006526828766150072,
    "clv_ci": [
-    0.015860570282359376,
-    0.015860570282359376
+    -0.006526828766150072,
+    -0.006526828766150072
    ],
-   "beat_close": 1,
+   "beat_close": 0,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": -0.006526828766150072,
+   "n_close_ex_news": 1,
+   "beat_close_ex_news": 0,
    "first": "2026-10-24",
    "last": "2026-10-24",
    "status": "unproven"
@@ -684,12 +1035,17 @@
    ],
    "roi_staked": 1.15,
    "n_close": 1,
-   "clv_mean": 0.005712566662599838,
+   "clv_mean": 0.005473525026184534,
    "clv_ci": [
-    0.005712566662599838,
-    0.005712566662599838
+    0.005473525026184534,
+    0.005473525026184534
    ],
    "beat_close": 1,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.005473525026184534,
+   "n_close_ex_news": 1,
+   "beat_close_ex_news": 1,
    "first": "2026-10-24",
    "last": "2026-10-24",
    "status": "unproven"
@@ -709,12 +1065,17 @@
    ],
    "roi_staked": -1.0,
    "n_close": 1,
-   "clv_mean": 0.00496247889742063,
+   "clv_mean": -0.022118437968042803,
    "clv_ci": [
-    0.00496247889742063,
-    0.00496247889742063
+    -0.022118437968042803,
+    -0.022118437968042803
    ],
-   "beat_close": 1,
+   "beat_close": 0,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": -0.022118437968042803,
+   "n_close_ex_news": 1,
+   "beat_close_ex_news": 0,
    "first": "2026-10-25",
    "last": "2026-10-25",
    "status": "unproven"
@@ -722,20 +1083,181 @@
   "ligamx/total": {
    "key": "ligamx/total",
    "flagged": 2,
-   "settled": 0,
-   "wins": 0,
-   "losses": 0,
+   "settled": 2,
+   "wins": 1,
+   "losses": 1,
    "pushes": 0,
-   "hit_rate": null,
-   "roi_flat": null,
-   "roi_flat_ci": null,
-   "roi_staked": null,
-   "n_close": 0,
-   "clv_mean": null,
-   "clv_ci": null,
-   "beat_close": 0,
+   "hit_rate": 0.5,
+   "roi_flat": -0.23684210526315796,
+   "roi_flat_ci": [
+    -1.7326315789473683,
+    1.2589473684210524
+   ],
+   "roi_staked": -0.35770524691539124,
+   "n_close": 2,
+   "clv_mean": 0.02255184837373686,
+   "clv_ci": [
+    -0.11693237230581696,
+    0.16203606905329068
+   ],
+   "beat_close": 1,
+   "n_close_model": 1,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.02255184837373686,
+   "n_close_ex_news": 2,
+   "beat_close_ex_news": 1,
    "first": "2026-10-24",
    "last": "2026-10-24",
+   "status": "unproven"
+  },
+  "wnba/spread": {
+   "key": "wnba/spread",
+   "flagged": 1,
+   "settled": 1,
+   "wins": 1,
+   "losses": 0,
+   "pushes": 0,
+   "hit_rate": 1.0,
+   "roi_flat": 0.8333333333333335,
+   "roi_flat_ci": [
+    0.8333333333333335,
+    0.8333333333333335
+   ],
+   "roi_staked": 0.8333333333333335,
+   "n_close": 1,
+   "clv_mean": 0.04894281782811638,
+   "clv_ci": [
+    0.04894281782811638,
+    0.04894281782811638
+   ],
+   "beat_close": 1,
+   "n_close_model": 1,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.04894281782811638,
+   "n_close_ex_news": 1,
+   "beat_close_ex_news": 1,
+   "first": "2026-10-31",
+   "last": "2026-10-31",
+   "status": "unproven"
+  },
+  "ncaab/spread": {
+   "key": "ncaab/spread",
+   "flagged": 1,
+   "settled": 1,
+   "wins": 0,
+   "losses": 1,
+   "pushes": 0,
+   "hit_rate": 0.0,
+   "roi_flat": -1.0,
+   "roi_flat_ci": [
+    -1.0,
+    -1.0
+   ],
+   "roi_staked": -1.0,
+   "n_close": 1,
+   "clv_mean": -0.008333165567212752,
+   "clv_ci": [
+    -0.008333165567212752,
+    -0.008333165567212752
+   ],
+   "beat_close": 0,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": -0.008333165567212752,
+   "n_close_ex_news": 1,
+   "beat_close_ex_news": 0,
+   "first": "2026-11-01",
+   "last": "2026-11-01",
+   "status": "unproven"
+  },
+  "ncaab/ml": {
+   "key": "ncaab/ml",
+   "flagged": 1,
+   "settled": 1,
+   "wins": 0,
+   "losses": 1,
+   "pushes": 0,
+   "hit_rate": 0.0,
+   "roi_flat": -1.0,
+   "roi_flat_ci": [
+    -1.0,
+    -1.0
+   ],
+   "roi_staked": -1.0,
+   "n_close": 1,
+   "clv_mean": -1.8291403349690594e-05,
+   "clv_ci": [
+    -1.8291403349690594e-05,
+    -1.8291403349690594e-05
+   ],
+   "beat_close": 0,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": -1.8291403349690594e-05,
+   "n_close_ex_news": 1,
+   "beat_close_ex_news": 0,
+   "first": "2026-11-02",
+   "last": "2026-11-02",
+   "status": "unproven"
+  },
+  "nba/ml": {
+   "key": "nba/ml",
+   "flagged": 1,
+   "settled": 1,
+   "wins": 1,
+   "losses": 0,
+   "pushes": 0,
+   "hit_rate": 1.0,
+   "roi_flat": 1.2199999999999998,
+   "roi_flat_ci": [
+    1.2199999999999998,
+    1.2199999999999998
+   ],
+   "roi_staked": 1.2199999999999998,
+   "n_close": 1,
+   "clv_mean": -0.02933267173154719,
+   "clv_ci": [
+    -0.02933267173154719,
+    -0.02933267173154719
+   ],
+   "beat_close": 0,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": -0.02933267173154719,
+   "n_close_ex_news": 1,
+   "beat_close_ex_news": 0,
+   "first": "2026-11-02",
+   "last": "2026-11-02",
+   "status": "unproven"
+  },
+  "efl/ml": {
+   "key": "efl/ml",
+   "flagged": 1,
+   "settled": 1,
+   "wins": 1,
+   "losses": 0,
+   "pushes": 0,
+   "hit_rate": 1.0,
+   "roi_flat": 3.3499999999999996,
+   "roi_flat_ci": [
+    3.3499999999999996,
+    3.3499999999999996
+   ],
+   "roi_staked": 3.3499999999999996,
+   "n_close": 1,
+   "clv_mean": 0.023547237654568648,
+   "clv_ci": [
+    0.023547237654568648,
+    0.023547237654568648
+   ],
+   "beat_close": 1,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.023547237654568648,
+   "n_close_ex_news": 1,
+   "beat_close_ex_news": 1,
+   "first": "2026-10-31",
+   "last": "2026-10-31",
    "status": "unproven"
   }
  },
@@ -793,9 +1315,51 @@
    "files": 35,
    "source_commit": "76007f505eac73e51a6702a41b3dea324bdf9751",
    "public_commit": "7df3375ad1f854162c1c8267842401cfc3fdec13"
+  },
+  {
+   "date": "2026-10-28",
+   "files": 39,
+   "source_commit": "7f99a8bede12ae99a1e65d9d468ee5b928cb2a4f",
+   "public_commit": null
+  },
+  {
+   "date": "2026-10-29",
+   "files": 41,
+   "source_commit": "3f72ca3f014295da7c40f0b63a9c151de38d61b6",
+   "public_commit": null
+  },
+  {
+   "date": "2026-10-30",
+   "files": 65,
+   "source_commit": "ede8562826d68165176d3ed5b016d4f09eed0c6a",
+   "public_commit": null
+  },
+  {
+   "date": "2026-10-31",
+   "files": 44,
+   "source_commit": "bf8189335f856a7e2e2004f14281a0479a9a6a32",
+   "public_commit": null
+  },
+  {
+   "date": "2026-11-01",
+   "files": 62,
+   "source_commit": "24e44caa9d09d3b6224fb5764e272e4a00e4833c",
+   "public_commit": null
+  },
+  {
+   "date": "2026-11-02",
+   "files": 59,
+   "source_commit": "dfadeb429957bcfcd3a0ad10a99f461819b3a83b",
+   "public_commit": null
+  },
+  {
+   "date": "2026-11-03",
+   "files": 59,
+   "source_commit": "2f8a3aa57bdbeb050337b04ce7f036b5a9248b25",
+   "public_commit": null
   }
  ],
- "unbroken_days": 8,
+ "unbroken_days": 15,
  "changelog": [
   [
    "2026-10-03",
@@ -816,12 +1380,1378 @@
   [
    "2026-10-26",
    "An exchange side with an empty ask book gets no assumed price (two phantom Kalshi dry orders were found and voided). This record page built; the mirror's manifests become append-only."
+  ],
+  [
+   "2026-10-28",
+   "Closing benchmark for spreads and totals changed, and every past bet restated. Until now the \"close\" for a spread or total was our own model's distribution applied to the consensus closing line; a study found it leaned toward our side by about half a point, so spread and total CLV read positive when it was not: on the 80 bets whose line two other books had posted, +0.44 reported became -1.10 (24% beat the close); over every bet with a close, golf included, the headline went from +0.47 to +0.06. The close is now the other books' de-vigged prices at the bet's own line in the last pre-kickoff snapshot (our book excluded, Pinnacle weighted 4x). Where fewer than two other books posted that line the old method remains and the row is marked \u2020. Moneyline CLV was never affected. The haircut that shrinks our edges is now fitted against the close only (never on 0/1 outcomes) and moves faster (prior weight 300 -> 100 games)."
+  ],
+  [
+   "2026-10-29",
+   "Pricing and grading changed after a study of 99,000 soft-book prices against the close, and every past bet restated. (1) Exchange prices (Kalshi, Polymarket) leave the consensus a book is judged against: they were inside it, contrary to the published method. (2) A spread or total is now priced against the other books' prices at the same line when at least three post it, instead of our own distribution's translation of the consensus line; the study found this benchmark's EV predicts closing-line value (55-76% of its 2c+ prices beat the close) where the translated one did not. (3) The moneyline close is the other sportsbooks' de-vigged closing prices, our own book and the exchanges excluded, Pinnacle 4x (the stored consensus had included both). (4) Soccer's three-way consensus is weighted like every other market (Pinnacle 4x; it was an unweighted mean). (5) Feed hygiene: totals outside a sport's range, spread prices without a line and two-way prices summing past 112% are discarded before pricing. The headline also states the record without golf outrights, whose tiny long-shot stakes make flat ROI misleading; golf itself is on hold until four tournaments are graded."
+  ],
+  [
+   "2026-10-29",
+   "DraftKings and BetMGM join FanDuel, BetRivers and Kalshi as the books bets are recommended at (accounts opened today). Prices at the two were already collected and graded, so their haircuts start from learned values, not the default. Earlier bets are not restated: a price there was never recommended. Housekeeping: for one day (Oct 16) ESPN spelt DraftKings \"Draft Kings\" and the feed stored it as a second book; those rows are merged."
+  ],
+  [
+   "2026-10-30",
+   "Display only, nothing restated: bets whose fair chance moved six or more points of win probability between the price we took (vig removed) and the close are marked \u207f as news moves (an injury or lineup change, not drift), and every CLV figure is also shown without them. Only a market close can earn the mark: against the model-translated close (\u2020) a gap is our own model's disagreement. They stay in every total, the headline and the market status: the money was real either way. The split tells a sound method with bad news luck from one that is wrong."
+  ],
+  [
+   "2026-11-01",
+   "Straight spreads and totals need at least +4c EV per $1 (moneylines stay at +2c). Flagged spread and total prices at the owner's books had lost about 1.3 points of win chance to the market close (about 70 graded), moneylines were +0.56 (65); an Oct 29 study found 2-3c prices at the rung ran +0.10 CLV and 3-5c +0.91. Earlier recommendations are not restated; the learning loop keeps recording from +2c."
+  ],
+  [
+   "2026-11-03",
+   "Two recommendations removed as data errors: BetMGM's AR-Pine Bluff @ Arkansas moneyline arrived with home and away swapped, which made AR-Pine Bluff +8000 (FanDuel) and Arkansas +3300 (BetMGM) read as +5,267c and +2,169c per $1 in the 6:26 AM college basketball report. Edges over 20 points of win chance are now treated as bad data and never recommended."
   ]
  ],
- "excluded": {
-  "pga": 48
- },
+ "excluded": {},
  "settled_bets": [
+  {
+   "report_date": "2026-10-22",
+   "sport": "pga",
+   "market": "top20",
+   "side": "baddeley a",
+   "label": "Aaron Baddeley top 20",
+   "book": "BetRivers",
+   "price": 4000,
+   "line": null,
+   "stake": 0.0005374152372023638,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.010609756097560978,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-21",
+   "sport": "pga",
+   "market": "top20",
+   "side": "wise a",
+   "label": "Aaron Wise top 20",
+   "book": "BetRivers",
+   "price": 550,
+   "line": null,
+   "stake": 0.001495150400866694,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.0038461538461538325,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-21",
+   "sport": "pga",
+   "market": "top5",
+   "side": "wise a",
+   "label": "Aaron Wise top 5",
+   "book": "BetRivers",
+   "price": 3300,
+   "line": null,
+   "stake": 0.0007200564145477951,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.010588235294117648,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-29",
+   "sport": "pga",
+   "market": "top10",
+   "side": "hadwin a",
+   "label": "Adam Hadwin top 10",
+   "book": "BetRivers",
+   "price": 2200,
+   "line": null,
+   "stake": 0.0021489489715124533,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.01781026023027807,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-29",
+   "sport": "pga",
+   "market": "top20",
+   "side": "hadwin a",
+   "label": "Adam Hadwin top 20",
+   "book": "BetRivers",
+   "price": 800,
+   "line": null,
+   "stake": 0.003246107164066376,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.024349945421304697,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-29",
+   "sport": "pga",
+   "market": "top5",
+   "side": "hadwin a",
+   "label": "Adam Hadwin top 5",
+   "book": "BetRivers",
+   "price": 5000,
+   "line": null,
+   "stake": 0.0008367774178606738,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.007770333512736986,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-21",
+   "sport": "pga",
+   "market": "top10",
+   "side": "long a",
+   "label": "Adam Long top 10",
+   "book": "FanDuel",
+   "price": 10000,
+   "line": null,
+   "stake": 0.000899720971642744,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.0012645373198660135,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top10",
+   "side": "chassart a",
+   "label": "Adrien Dumont De Chassart top 10",
+   "book": "BetRivers",
+   "price": 1200,
+   "line": null,
+   "stake": 0.0003563232929402346,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.018076923076923074,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-29",
+   "sport": "pga",
+   "market": "top20",
+   "side": "potgieter a",
+   "label": "Aldrich Potgieter top 20",
+   "book": "Kalshi",
+   "price": 488,
+   "line": null,
+   "stake": 0.0030016021144632986,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.020068027210884326,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top20",
+   "side": "putnam a",
+   "label": "Andrew Putnam top 20",
+   "book": "FanDuel",
+   "price": 750,
+   "line": null,
+   "stake": 0.0005521757659215715,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.0023529411764705854,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-21",
+   "sport": "pga",
+   "market": "top5",
+   "side": "cook a",
+   "label": "Austin Cook top 5",
+   "book": "BetRivers",
+   "price": 9000,
+   "line": null,
+   "stake": 0.0009656491723677058,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.0013939129723390033,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-29",
+   "sport": "pga",
+   "market": "top20",
+   "side": "martin b",
+   "label": "Ben Martin top 20",
+   "book": "FanDuel",
+   "price": 1100,
+   "line": null,
+   "stake": 0.001776019979285031,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.016666666666666677,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top20",
+   "side": "silverman b",
+   "label": "Benjamin Silverman top 20",
+   "book": "FanDuel",
+   "price": 650,
+   "line": null,
+   "stake": 0.0010191894884296387,
+   "outcome": 0.5,
+   "profit": 2.75,
+   "clv": 0.026666666666666672,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-22",
+   "sport": "pga",
+   "market": "top10",
+   "side": "haas b",
+   "label": "Bill Haas top 10",
+   "book": "FanDuel",
+   "price": 5000,
+   "line": null,
+   "stake": 0.001000832045648017,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.006062574783534381,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-22",
+   "sport": "pga",
+   "market": "top20",
+   "side": "haas b",
+   "label": "Bill Haas top 20",
+   "book": "FanDuel",
+   "price": 1900,
+   "line": null,
+   "stake": 0.002201483600845638,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.0050000000000000044,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-21",
+   "sport": "pga",
+   "market": "top5",
+   "side": "haas b",
+   "label": "Bill Haas top 5",
+   "book": "FanDuel",
+   "price": 10000,
+   "line": null,
+   "stake": 0.0008549304168688554,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.00037186625176339853,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top20",
+   "side": "garnett b",
+   "label": "Brice Garnett top 20",
+   "book": "FanDuel",
+   "price": 750,
+   "line": null,
+   "stake": 0.0007232232985127798,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.03235294117647061,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top10",
+   "side": "pan c",
+   "label": "C.T. Pan top 10",
+   "book": "BetRivers",
+   "price": 4000,
+   "line": null,
+   "stake": 0.00018058393269349817,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.005609756097560977,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top20",
+   "side": "pan c",
+   "label": "C.T. Pan top 20",
+   "book": "BetRivers",
+   "price": 1200,
+   "line": null,
+   "stake": 0.000955179083730944,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.008076923076923079,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top5",
+   "side": "pan c",
+   "label": "C.T. Pan top 5",
+   "book": "BetRivers",
+   "price": 10000,
+   "line": null,
+   "stake": 0.00024489127118367947,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.0005280184687513224,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-21",
+   "sport": "pga",
+   "market": "top5",
+   "side": "champ c",
+   "label": "Cameron Champ top 5",
+   "book": "BetRivers",
+   "price": 5500,
+   "line": null,
+   "stake": 0.0009528102220648689,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.0016463472126857295,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top20",
+   "side": "davis c",
+   "label": "Cameron Davis top 20",
+   "book": "Kalshi",
+   "price": 669,
+   "line": null,
+   "stake": 0.0006305853614937026,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.020039011703511037,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-20",
+   "sport": "pga",
+   "market": "top5",
+   "side": "davis c",
+   "label": "Cameron Davis top 5",
+   "book": "BetRivers",
+   "price": 5500,
+   "line": null,
+   "stake": 0.0007976491588449203,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.006373103657273716,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-27",
+   "sport": "pga",
+   "market": "top10",
+   "side": "tankersley c",
+   "label": "Cameron Tankersley top 10",
+   "book": "FanDuel",
+   "price": 10000,
+   "line": null,
+   "stake": 0.000529999231933094,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.0016081312618486162,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-29",
+   "sport": "pga",
+   "market": "top10",
+   "side": "villegas c",
+   "label": "Camilo Villegas top 10",
+   "book": "FanDuel",
+   "price": 7500,
+   "line": null,
+   "stake": 0.00027669150959715595,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.004123620134823838,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-20",
+   "sport": "pga",
+   "market": "top5",
+   "side": "villegas c",
+   "label": "Camilo Villegas top 5",
+   "book": "BetRivers",
+   "price": 5500,
+   "line": null,
+   "stake": 0.000974143712221285,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.00355424711058331,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-21",
+   "sport": "pga",
+   "market": "top5",
+   "side": "hoffman c",
+   "label": "Charley Hoffman top 5",
+   "book": "BetRivers",
+   "price": 6600,
+   "line": null,
+   "stake": 0.0008900747810493535,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.0006963176954541492,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-20",
+   "sport": "pga",
+   "market": "top10",
+   "side": "reavie c",
+   "label": "Chez Reavie top 10",
+   "book": "FanDuel",
+   "price": 6000,
+   "line": null,
+   "stake": 0.0008086698142262932,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.0038106420623416244,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-20",
+   "sport": "pga",
+   "market": "top20",
+   "side": "reavie c",
+   "label": "Chez Reavie top 20",
+   "book": "FanDuel",
+   "price": 2200,
+   "line": null,
+   "stake": 0.0022745678556890425,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.011521739130434791,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-21",
+   "sport": "pga",
+   "market": "top10",
+   "side": "lingmerth d",
+   "label": "David Lingmerth top 10",
+   "book": "FanDuel",
+   "price": 10000,
+   "line": null,
+   "stake": 0.0005704750082332271,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.001952814578779027,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top5",
+   "side": "riley d",
+   "label": "Davis Riley top 5",
+   "book": "BetRivers",
+   "price": 3300,
+   "line": null,
+   "stake": 0.000575311984672335,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.015588235294117646,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top5",
+   "side": "mccarthy d",
+   "label": "Denny Mccarthy top 5",
+   "book": "FanDuel",
+   "price": 1900,
+   "line": null,
+   "stake": 0.00024144143533926343,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.0050000000000000044,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-20",
+   "sport": "pga",
+   "market": "top5",
+   "side": "frittelli d",
+   "label": "Dylan Frittelli top 5",
+   "book": "BetRivers",
+   "price": 6600,
+   "line": null,
+   "stake": 0.0007478780394783715,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.001552044636883276,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top20",
+   "side": "wu d",
+   "label": "Dylan Wu top 20",
+   "book": "FanDuel",
+   "price": 650,
+   "line": null,
+   "stake": 0.0009196220635454693,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.026666666666666672,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-27",
+   "sport": "pga",
+   "market": "top5",
+   "side": "endicott g",
+   "label": "Garrett Endicott top 5",
+   "book": "FanDuel",
+   "price": 10000,
+   "line": null,
+   "stake": 0.00034751957791056556,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.003871906983300137,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-29",
+   "sport": "pga",
+   "market": "top10",
+   "side": "higgo g",
+   "label": "Garrick Higgo top 10",
+   "book": "BetRivers",
+   "price": 2200,
+   "line": null,
+   "stake": 0.0010687086154818467,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.011521739130434791,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top20",
+   "side": "higgo g",
+   "label": "Garrick Higgo top 20",
+   "book": "BetRivers",
+   "price": 800,
+   "line": null,
+   "stake": 0.001545048720670377,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.003888888888888886,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-27",
+   "sport": "pga",
+   "market": "top5",
+   "side": "gomez g",
+   "label": "Gerardo G\u00f3mez top 5",
+   "book": "FanDuel",
+   "price": 10000,
+   "line": null,
+   "stake": 0.0004329389589903146,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.003129610178281053,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-27",
+   "sport": "pga",
+   "market": "top5",
+   "side": "higgs h",
+   "label": "Harry Higgs top 5",
+   "book": "BetRivers",
+   "price": 6600,
+   "line": null,
+   "stake": 0.0008072504574360151,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.000974018974121171,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-21",
+   "sport": "pga",
+   "market": "top20",
+   "side": "norlander h",
+   "label": "Henrik Norlander top 20",
+   "book": "BetRivers",
+   "price": 1400,
+   "line": null,
+   "stake": 0.0006081334893603784,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.013333333333333336,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-21",
+   "sport": "pga",
+   "market": "top5",
+   "side": "norlander h",
+   "label": "Henrik Norlander top 5",
+   "book": "BetRivers",
+   "price": 9000,
+   "line": null,
+   "stake": 0.0012867168267002382,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.00022330963670817022,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top10",
+   "side": "suber j",
+   "label": "Jackson Suber top 10",
+   "book": "BetRivers",
+   "price": 500,
+   "line": null,
+   "stake": 0.00105406666955132,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.02833333333333335,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-21",
+   "sport": "pga",
+   "market": "top5",
+   "side": "kang j",
+   "label": "Jeffrey Kang top 5",
+   "book": "BetRivers",
+   "price": 5000,
+   "line": null,
+   "stake": 0.0014241055792669926,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.015392156862745102,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-21",
+   "sport": "pga",
+   "market": "top10",
+   "side": "stanger j",
+   "label": "Jimmy Stanger top 10",
+   "book": "BetRivers",
+   "price": 2800,
+   "line": null,
+   "stake": 0.00045137388340079493,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.010517241379310344,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top10",
+   "side": "stanger j",
+   "label": "Jimmy Stanger top 10",
+   "book": "BetRivers",
+   "price": 3500,
+   "line": null,
+   "stake": 0.0006225108239494206,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.007222222222222227,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-29",
+   "sport": "pga",
+   "market": "top20",
+   "side": "highsmith j",
+   "label": "Joe Highsmith top 20",
+   "book": "BetRivers",
+   "price": 900,
+   "line": null,
+   "stake": 0.0023642092574080228,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.009999999999999995,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-27",
+   "sport": "pga",
+   "market": "top5",
+   "side": "highsmith j",
+   "label": "Joe Highsmith top 5",
+   "book": "BetRivers",
+   "price": 5500,
+   "line": null,
+   "stake": 0.001054994540227052,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.0015131526806152241,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top10",
+   "side": "dahmen j",
+   "label": "Joel Dahmen top 10",
+   "book": "FanDuel",
+   "price": 1600,
+   "line": null,
+   "stake": 0.00028135156774652416,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.021176470588235297,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top20",
+   "side": "dahmen j",
+   "label": "Joel Dahmen top 20",
+   "book": "FanDuel",
+   "price": 650,
+   "line": null,
+   "stake": 0.002438123573493452,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.03166666666666665,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top10",
+   "side": "daly j",
+   "label": "John Daly Jr. top 10",
+   "book": "FanDuel",
+   "price": 7000,
+   "line": null,
+   "stake": 7.123745578818716e-05,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.002935982730421437,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-27",
+   "sport": "pga",
+   "market": "top5",
+   "side": "daly j",
+   "label": "John Daly Jr. top 5",
+   "book": "BetRivers",
+   "price": 10000,
+   "line": null,
+   "stake": 0.0005599768362188968,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.0029216457545622933,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-29",
+   "sport": "pga",
+   "market": "top20",
+   "side": "lower j",
+   "label": "Justin Lower top 20",
+   "book": "FanDuel",
+   "price": 850,
+   "line": null,
+   "stake": 0.0025514797414901993,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.03473684210526318,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-29",
+   "sport": "pga",
+   "market": "top10",
+   "side": "streelman k",
+   "label": "Kevin Streelman top 10",
+   "book": "FanDuel",
+   "price": 1600,
+   "line": null,
+   "stake": 0.0012172384301177967,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.016176470588235292,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-29",
+   "sport": "pga",
+   "market": "top20",
+   "side": "streelman k",
+   "label": "Kevin Streelman top 20",
+   "book": "FanDuel",
+   "price": 650,
+   "line": null,
+   "stake": 0.003980046547293304,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.011666666666666686,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-22",
+   "sport": "pga",
+   "market": "top20",
+   "side": "list l",
+   "label": "Luke List top 20",
+   "book": "FanDuel",
+   "price": 900,
+   "line": null,
+   "stake": 0.0028086621032431297,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.024999999999999994,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-29",
+   "sport": "pga",
+   "market": "top20",
+   "side": "penge m",
+   "label": "Marco Penge top 20",
+   "book": "Kalshi",
+   "price": 194,
+   "line": null,
+   "stake": 0.00716145070514079,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.015136054421768685,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-21",
+   "sport": "pga",
+   "market": "top20",
+   "side": "howell m",
+   "label": "Mason Howell top 20",
+   "book": "BetRivers",
+   "price": 1800,
+   "line": null,
+   "stake": 0.0008645631172931739,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.012368421052631584,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-21",
+   "sport": "pga",
+   "market": "top5",
+   "side": "howell m",
+   "label": "Mason Howell top 5",
+   "book": "BetRivers",
+   "price": 9000,
+   "line": null,
+   "stake": 0.001184442638693953,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.0016252765504796117,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-22",
+   "sport": "pga",
+   "market": "top20",
+   "side": "dunlap n",
+   "label": "Nick Dunlap top 20",
+   "book": "BetRivers",
+   "price": 750,
+   "line": null,
+   "stake": 0.0026675296421403657,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.00735294117647059,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top20",
+   "side": "kizzire p",
+   "label": "Patton Kizzire top 20",
+   "book": "FanDuel",
+   "price": 1600,
+   "line": null,
+   "stake": 0.0014436850028356043,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.016176470588235292,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-27",
+   "sport": "pga",
+   "market": "top5",
+   "side": "kizzire p",
+   "label": "Patton Kizzire top 5",
+   "book": "FanDuel",
+   "price": 10000,
+   "line": null,
+   "stake": 0.0006511166762629397,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.00023723648807867995,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-29",
+   "sport": "pga",
+   "market": "top20",
+   "side": "peterson p",
+   "label": "Paul Peterson top 20",
+   "book": "FanDuel",
+   "price": 1100,
+   "line": null,
+   "stake": 0.0018451729437071562,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.011666666666666672,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top20",
+   "side": "malnati p",
+   "label": "Peter Malnati top 20",
+   "book": "FanDuel",
+   "price": 1000,
+   "line": null,
+   "stake": 0.0006445622649011202,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.014090909090909098,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-29",
+   "sport": "pga",
+   "market": "top20",
+   "side": "campos r",
+   "label": "Rafael Campos top 20",
+   "book": "FanDuel",
+   "price": 1600,
+   "line": null,
+   "stake": 0.0009277182689344266,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.0261764705882353,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-27",
+   "sport": "pga",
+   "market": "top5",
+   "side": "campos r",
+   "label": "Rafael Campos top 5",
+   "book": "FanDuel",
+   "price": 10000,
+   "line": null,
+   "stake": 0.0006239619739765498,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.0005538933176249122,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-22",
+   "sport": "pga",
+   "market": "top10",
+   "side": "streb r",
+   "label": "Robert Streb top 10",
+   "book": "FanDuel",
+   "price": 10000,
+   "line": null,
+   "stake": 0.0005947934129679667,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.0248490099009901,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-22",
+   "sport": "pga",
+   "market": "top20",
+   "side": "streb r",
+   "label": "Robert Streb top 20",
+   "book": "BetRivers",
+   "price": 4000,
+   "line": null,
+   "stake": 0.0011870438857650787,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.030609756097560975,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-21",
+   "sport": "pga",
+   "market": "top20",
+   "side": "sautron r",
+   "label": "Rudy Sautron top 20",
+   "book": "BetRivers",
+   "price": 1400,
+   "line": null,
+   "stake": 0.00124050497419159,
+   "outcome": 0.5,
+   "profit": 6.5,
+   "clv": 0.005833333333333343,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-21",
+   "sport": "pga",
+   "market": "top5",
+   "side": "sautron r",
+   "label": "Rudy Sautron top 5",
+   "book": "BetRivers",
+   "price": 9000,
+   "line": null,
+   "stake": 0.0007908864849340869,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.0008313033230582956,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-21",
+   "sport": "pga",
+   "market": "top10",
+   "side": "brehm r",
+   "label": "Ryan Brehm top 10",
+   "book": "FanDuel",
+   "price": 10000,
+   "line": null,
+   "stake": 0.0006792040094886889,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.001569357891574424,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top10",
+   "side": "cowan r",
+   "label": "Ryder Cowan top 10",
+   "book": "FanDuel",
+   "price": 1700,
+   "line": null,
+   "stake": 0.00025513877641835145,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.014444444444444454,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top20",
+   "side": "cowan r",
+   "label": "Ryder Cowan top 20",
+   "book": "FanDuel",
+   "price": 700,
+   "line": null,
+   "stake": 0.0007601869050395944,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.015000000000000013,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top20",
+   "side": "fuente s",
+   "label": "Santiago De la Fuente top 20",
+   "book": "FanDuel",
+   "price": 1900,
+   "line": null,
+   "stake": 0.00041693371569856094,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.020000000000000004,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-27",
+   "sport": "pga",
+   "market": "top5",
+   "side": "fuente s",
+   "label": "Santiago De la Fuente top 5",
+   "book": "FanDuel",
+   "price": 10000,
+   "line": null,
+   "stake": 0.0006651708406366985,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.0009903395789860932,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-22",
+   "sport": "pga",
+   "market": "top10",
+   "side": "kanaya t",
+   "label": "Takumi Kanaya top 10",
+   "book": "FanDuel",
+   "price": 600,
+   "line": null,
+   "stake": 0.0043450060258540205,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.027142857142857135,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-22",
+   "sport": "pga",
+   "market": "top5",
+   "side": "kanaya t",
+   "label": "Takumi Kanaya top 5",
+   "book": "FanDuel",
+   "price": 1300,
+   "line": null,
+   "stake": 0.0020973576858004154,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.013571428571428568,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top20",
+   "side": "phillips t",
+   "label": "Trent Phillips top 20",
+   "book": "FanDuel",
+   "price": 850,
+   "line": null,
+   "stake": 0.000570823732412737,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.024736842105263168,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-22",
+   "sport": "pga",
+   "market": "top20",
+   "side": "merritt t",
+   "label": "Troy Merritt top 20",
+   "book": "FanDuel",
+   "price": 1000,
+   "line": null,
+   "stake": 0.002559876360533003,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.014090909090909085,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-29",
+   "sport": "pga",
+   "market": "top20",
+   "side": "whaley v",
+   "label": "Vince Whaley top 20",
+   "book": "FanDuel",
+   "price": 1300,
+   "line": null,
+   "stake": 0.0015167706732673383,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.008571428571428577,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-29",
+   "sport": "pga",
+   "market": "top10",
+   "side": "gordon w",
+   "label": "Will Gordon top 10",
+   "book": "BetRivers",
+   "price": 3500,
+   "line": null,
+   "stake": 0.0006621611470959052,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.0022222222222222227,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-21",
+   "sport": "pga",
+   "market": "top5",
+   "side": "gordon w",
+   "label": "Will Gordon top 5",
+   "book": "BetRivers",
+   "price": 4000,
+   "line": null,
+   "stake": 0.00013810621627086684,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.002369028558273898,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top5",
+   "side": "gordon w",
+   "label": "Will Gordon top 5",
+   "book": "BetRivers",
+   "price": 6600,
+   "line": null,
+   "stake": 6.126796660601061e-05,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.0005086378652993315,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top10",
+   "side": "blair z",
+   "label": "Zac Blair top 10",
+   "book": "FanDuel",
+   "price": 1000,
+   "line": null,
+   "stake": 0.0005294982853424959,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.009090909090909094,
+   "clv_basis": null,
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "pga",
+   "market": "top20",
+   "side": "blair z",
+   "label": "Zac Blair top 20",
+   "book": "FanDuel",
+   "price": 430,
+   "line": null,
+   "stake": 0.0013510467447105992,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.03132075471698112,
+   "clv_basis": null,
+   "news": false
+  },
   {
    "report_date": "2026-10-03",
    "sport": "cfb",
@@ -834,7 +2764,9 @@
    "stake": 0.016736900500673967,
    "outcome": 1.0,
    "profit": 0.8928571428571428,
-   "clv": null
+   "clv": null,
+   "clv_basis": null,
+   "news": false
   },
   {
    "report_date": "2026-10-03",
@@ -848,7 +2780,9 @@
    "stake": 0.010599659630160487,
    "outcome": 1.0,
    "profit": 3.3499999999999996,
-   "clv": null
+   "clv": null,
+   "clv_basis": null,
+   "news": false
   },
   {
    "report_date": "2026-10-04",
@@ -862,7 +2796,9 @@
    "stake": 0.0003337226055555864,
    "outcome": 1.0,
    "profit": 1.0,
-   "clv": 0.013522103517292883
+   "clv": -0.028249121284587453,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-04",
@@ -876,7 +2812,9 @@
    "stake": 0.0009584549717124302,
    "outcome": 1.0,
    "profit": 1.0,
-   "clv": null
+   "clv": null,
+   "clv_basis": null,
+   "news": false
   },
   {
    "report_date": "2026-10-04",
@@ -890,7 +2828,9 @@
    "stake": 0.00494064119127248,
    "outcome": 1.0,
    "profit": 0.819672131147541,
-   "clv": null
+   "clv": null,
+   "clv_basis": null,
+   "news": false
   },
   {
    "report_date": "2026-10-05",
@@ -904,7 +2844,9 @@
    "stake": 0.0006188740346952382,
    "outcome": 1.0,
    "profit": 0.8928571428571428,
-   "clv": -0.013715869738821218
+   "clv": -0.021091798652128846,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-05",
@@ -918,7 +2860,9 @@
    "stake": 0.0023867421735305444,
    "outcome": 1.0,
    "profit": 0.847457627118644,
-   "clv": -0.014868775834195436
+   "clv": -0.02005694413579928,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-06",
@@ -932,7 +2876,9 @@
    "stake": 0.0002015994610034009,
    "outcome": 1.0,
    "profit": 1.08,
-   "clv": -0.012562298728755694
+   "clv": -0.01496230542778798,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-06",
@@ -946,7 +2892,9 @@
    "stake": 0.001772349263362814,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.009514476882852674
+   "clv": -0.012767496375525544,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-06",
@@ -960,7 +2908,9 @@
    "stake": 0.002107780120499756,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.007787730249295022
+   "clv": -0.008854699792717136,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-06",
@@ -974,7 +2924,9 @@
    "stake": 0.0003036777948244083,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.008155962403054495
+   "clv": -0.008155962403054495,
+   "clv_basis": "consensus",
+   "news": false
   },
   {
    "report_date": "2026-10-04",
@@ -988,7 +2940,9 @@
    "stake": 0.01801669341688668,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.004320231512241146
+   "clv": -0.004320231512241146,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-06",
@@ -1002,7 +2956,9 @@
    "stake": 2.766286223510884e-05,
    "outcome": 1.0,
    "profit": 0.5988023952095807,
-   "clv": -0.009788378733321834
+   "clv": -0.009788378733321834,
+   "clv_basis": "consensus",
+   "news": false
   },
   {
    "report_date": "2026-10-06",
@@ -1016,7 +2972,9 @@
    "stake": 0.0007404347565371618,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.032004974038247536
+   "clv": -0.03420529783227033,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-06",
@@ -1030,7 +2988,9 @@
    "stake": 0.016147282203541922,
    "outcome": 1.0,
    "profit": 0.7142857142857144,
-   "clv": 0.036814423975042976
+   "clv": 0.036814423975042976,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-07",
@@ -1044,7 +3004,9 @@
    "stake": 0.0008374046062796778,
    "outcome": 1.0,
    "profit": 0.9433962264150944,
-   "clv": -0.011325523822174
+   "clv": -0.013724572223226872,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-07",
@@ -1058,7 +3020,9 @@
    "stake": 0.0017580228242820406,
    "outcome": 1.0,
    "profit": 0.7874015748031495,
-   "clv": -0.008409900504245615
+   "clv": -0.008409900504245615,
+   "clv_basis": "consensus",
+   "news": false
   },
   {
    "report_date": "2026-10-07",
@@ -1072,7 +3036,9 @@
    "stake": 0.0007447832641417129,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.06676260357021824
+   "clv": -0.06596074059591167,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-05",
@@ -1086,7 +3052,9 @@
    "stake": 0.00124292567984281,
    "outcome": 1.0,
    "profit": 0.1763668430335097,
-   "clv": -0.016258458767176243
+   "clv": -0.01609511505155714,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-08",
@@ -1100,7 +3068,9 @@
    "stake": 0.00047235795398324447,
    "outcome": 1.0,
    "profit": 0.9615384615384617,
-   "clv": 0.03899998232376689
+   "clv": -0.01846855157770011,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-08",
@@ -1114,7 +3084,9 @@
    "stake": 0.0010291651579128328,
    "outcome": 1.0,
    "profit": 0.7692307692307692,
-   "clv": -0.015273074907111495
+   "clv": -0.01941072626856577,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-08",
@@ -1128,7 +3100,9 @@
    "stake": 0.001164485742610635,
    "outcome": 1.0,
    "profit": 0.7246376811594204,
-   "clv": -0.019944164068545156
+   "clv": -0.026515557099379694,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-08",
@@ -1142,7 +3116,9 @@
    "stake": 0.009394991063575614,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.02862368523967307
+   "clv": 0.02862368523967307,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-08",
@@ -1156,7 +3132,9 @@
    "stake": 0.0032875781313164093,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.010010445165907988
+   "clv": -0.0169332224431038,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-07",
@@ -1170,7 +3148,9 @@
    "stake": 4.596832388918226e-05,
    "outcome": 1.0,
    "profit": 0.925925925925926,
-   "clv": -0.10388726584306551
+   "clv": -0.10378057149043984,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-07",
@@ -1184,7 +3164,9 @@
    "stake": 0.013405192265307675,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.08126666145301542
+   "clv": 0.08121588781580591,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-07",
@@ -1198,7 +3180,9 @@
    "stake": 0.000836696501756501,
    "outcome": 1.0,
    "profit": 1.27,
-   "clv": -0.03913222445198716
+   "clv": -0.03958584283316735,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-07",
@@ -1212,7 +3196,9 @@
    "stake": 0.0009886351641674174,
    "outcome": 1.0,
    "profit": 1.0,
-   "clv": 0.016783581029892858
+   "clv": -0.03646855042528013,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-07",
@@ -1226,7 +3212,9 @@
    "stake": 0.004139692354931568,
    "outcome": 1.0,
    "profit": 0.925925925925926,
-   "clv": -0.013109018664580141
+   "clv": -0.012989347267780005,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-08",
@@ -1240,7 +3228,9 @@
    "stake": 0.004558166785236846,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.012099156856056004
+   "clv": -0.016360317718225992,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-08",
@@ -1254,7 +3244,9 @@
    "stake": 0.00044988686253580155,
    "outcome": 1.0,
    "profit": 0.7575757575757576,
-   "clv": -0.02644399020239696
+   "clv": -0.02644399020239696,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-08",
@@ -1268,7 +3260,9 @@
    "stake": 0.0029187427884163255,
    "outcome": 1.0,
    "profit": 0.9433962264150944,
-   "clv": -0.04531684015163617
+   "clv": -0.051474153514430965,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-09",
@@ -1282,7 +3276,9 @@
    "stake": 0.0016636376466263134,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.009214603426212054
+   "clv": -0.02175926721495336,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-09",
@@ -1296,7 +3292,9 @@
    "stake": 0.00028204300347851256,
    "outcome": 1.0,
    "profit": 0.8695652173913042,
-   "clv": -0.011446514223681259
+   "clv": -0.015118341814174485,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-06",
@@ -1310,7 +3308,9 @@
    "stake": 0.0002747747629685843,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.026919048591777628
+   "clv": 0.03675223157485513,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-09",
@@ -1324,7 +3324,9 @@
    "stake": 0.0021321318038875223,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.00333434502263108
+   "clv": 0.003363512300724736,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-05",
@@ -1338,7 +3340,9 @@
    "stake": 0.004972946678718474,
    "outcome": 1.0,
    "profit": 0.9523809523809523,
-   "clv": 0.014461798000951598
+   "clv": 0.004428047347545094,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-05",
@@ -1352,7 +3356,9 @@
    "stake": 0.0017695547993650251,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.007534114841358797
+   "clv": -0.00765805580462342,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-05",
@@ -1366,7 +3372,9 @@
    "stake": 0.0019205573827752826,
    "outcome": 1.0,
    "profit": 0.8849557522123894,
-   "clv": -0.02109724230599619
+   "clv": -0.02099907985666516,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-09",
@@ -1380,7 +3388,9 @@
    "stake": 4.352932255664021e-05,
    "outcome": 1.0,
    "profit": 0.9615384615384617,
-   "clv": 0.009806920365883487
+   "clv": -0.004680951817120471,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-09",
@@ -1394,7 +3404,9 @@
    "stake": 0.0006405541197442478,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.012651510171291402
+   "clv": -0.012747672149524991,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-09",
@@ -1408,7 +3420,9 @@
    "stake": 0.0029959110780271854,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.017200944804394824
+   "clv": -0.030042317477366964,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-07",
@@ -1422,7 +3436,9 @@
    "stake": 0.00035048345428573816,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.012491389380559492
+   "clv": -0.012523802354221791,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-05",
@@ -1436,7 +3452,9 @@
    "stake": 0.00011194843979071211,
    "outcome": 1.0,
    "profit": 0.6451612903225805,
-   "clv": 6.43411451692888e-05
+   "clv": -0.0017146909183988202,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-08",
@@ -1450,7 +3468,9 @@
    "stake": 0.013480867418486546,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.02366194275651734
+   "clv": 0.031153958542911364,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-07",
@@ -1464,7 +3484,9 @@
    "stake": 0.0023831934978003843,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.006808595194208955
+   "clv": -0.007748380021806001,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-08",
@@ -1478,7 +3500,9 @@
    "stake": 0.0024246895805707085,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.11238398139656447
+   "clv": 0.11248210957140647,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-09",
@@ -1492,7 +3516,9 @@
    "stake": 0.0013237577759580665,
    "outcome": 1.0,
    "profit": 0.6578947368421053,
-   "clv": 0.07361906839417165
+   "clv": 0.04621235442600102,
+   "clv_basis": "books",
+   "news": true
   },
   {
    "report_date": "2026-10-09",
@@ -1506,7 +3532,9 @@
    "stake": 0.005516111798427683,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.012803988337568906
+   "clv": -0.00949769244599974,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-05",
@@ -1520,7 +3548,9 @@
    "stake": 0.00016304023937571132,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.0020575781459402087
+   "clv": -0.02037958191507927,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-09",
@@ -1534,7 +3564,9 @@
    "stake": 0.0022314868566916286,
    "outcome": 1.0,
    "profit": 0.8771929824561404,
-   "clv": 0.040736661284915154
+   "clv": 0.04077932972313458,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-09",
@@ -1548,7 +3580,9 @@
    "stake": 0.0004538886520507055,
    "outcome": 1.0,
    "profit": 0.847457627118644,
-   "clv": 0.030965668401098156
+   "clv": 0.028507235064233916,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-05",
@@ -1562,7 +3596,9 @@
    "stake": 0.02354573309018308,
    "outcome": 1.0,
    "profit": 0.03093102381688828,
-   "clv": 0.005091101396951014
+   "clv": 0.005796652149249293,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-09",
@@ -1576,7 +3612,9 @@
    "stake": 0.002205469082047112,
    "outcome": 1.0,
    "profit": 0.9090909090909092,
-   "clv": -0.004338869433135106
+   "clv": -0.030708002364257803,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-05",
@@ -1590,7 +3628,9 @@
    "stake": 0.0009748740676864468,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.016150564263318068
+   "clv": -0.01653612545521088,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-09",
@@ -1604,7 +3644,9 @@
    "stake": 0.008290574948165767,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.00977312022047061
+   "clv": -0.006909488430321353,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-06",
@@ -1618,7 +3660,9 @@
    "stake": 0.0015899187144786438,
    "outcome": 1.0,
    "profit": 0.8333333333333335,
-   "clv": 0.023514206228862355
+   "clv": 0.02503972648208941,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-05",
@@ -1632,7 +3676,9 @@
    "stake": 0.007797290990234863,
    "outcome": 1.0,
    "profit": 0.1763668430335097,
-   "clv": -0.0034025884313909627
+   "clv": -0.0013750989910847888,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-09",
@@ -1646,7 +3692,9 @@
    "stake": 0.0008119272058751448,
    "outcome": 1.0,
    "profit": 0.8849557522123894,
-   "clv": 0.004789568327158933
+   "clv": 0.004571548268710646,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-05",
@@ -1660,7 +3708,9 @@
    "stake": 0.002819008074977169,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.0773580414467745
+   "clv": 0.07584286804956242,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-05",
@@ -1674,7 +3724,9 @@
    "stake": 0.00636174305160177,
    "outcome": 1.0,
    "profit": 0.16286644951140072,
-   "clv": -0.00034021051487742593
+   "clv": 0.0021364615311518786,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-08",
@@ -1688,7 +3740,9 @@
    "stake": 0.0026280672504737806,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.023510800974842594
+   "clv": 0.010801955665769913,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-09",
@@ -1702,7 +3756,9 @@
    "stake": 5.872161702678846e-06,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.013065806349242037
+   "clv": -0.007730618082732121,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-09",
@@ -1716,7 +3772,9 @@
    "stake": 2.313943705661625e-05,
    "outcome": 1.0,
    "profit": 0.8849557522123894,
-   "clv": 0.008476668327052517
+   "clv": -0.0060796091809419694,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-09",
@@ -1730,7 +3788,9 @@
    "stake": 0.003426261548868747,
    "outcome": 1.0,
    "profit": 0.8771929824561404,
-   "clv": -0.04835226869092302
+   "clv": -0.023151831602793216,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-08",
@@ -1744,7 +3804,9 @@
    "stake": 0.0068653022798068515,
    "outcome": 1.0,
    "profit": 0.07524454477050413,
-   "clv": 0.002765659881322713
+   "clv": 0.003990759228343244,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-11",
@@ -1758,7 +3820,9 @@
    "stake": 7.415882184232114e-05,
    "outcome": 1.0,
    "profit": 0.19047619047619047,
-   "clv": -0.0019004555162823733
+   "clv": -0.0019004555162823733,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-11",
@@ -1772,7 +3836,9 @@
    "stake": 0.005205040535199719,
    "outcome": 1.0,
    "profit": 1.85,
-   "clv": -0.017735093173162464
+   "clv": -0.015536422816146644,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-11",
@@ -1786,7 +3852,9 @@
    "stake": 0.003118819511129913,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.01605133353029259
+   "clv": -0.01605133353029259,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-11",
@@ -1800,7 +3868,9 @@
    "stake": 0.004853128813316333,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.0113722019701199
+   "clv": -0.010787098169816212,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-11",
@@ -1814,7 +3884,9 @@
    "stake": 0.0017387034863346662,
    "outcome": 1.0,
    "profit": 0.9433962264150944,
-   "clv": 0.008919979963191826
+   "clv": -0.029535903689828447,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-11",
@@ -1828,7 +3900,9 @@
    "stake": 0.004213739245060123,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.038602707929086155
+   "clv": -0.03464319521719006,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-09",
@@ -1842,7 +3916,9 @@
    "stake": 0.003630977992268137,
    "outcome": 1.0,
    "profit": 0.33333333333333326,
-   "clv": 0.013864183367842453
+   "clv": 0.01733208966718136,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-08",
@@ -1856,7 +3932,9 @@
    "stake": 0.001627166466202051,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.0009997861584642997
+   "clv": -0.0009583830206585375,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-08",
@@ -1870,7 +3948,9 @@
    "stake": 0.002836573461539468,
    "outcome": 1.0,
    "profit": 0.9523809523809523,
-   "clv": 0.02650479305095743
+   "clv": 0.028959414605962963,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-11",
@@ -1884,7 +3964,9 @@
    "stake": 0.0016601422848132237,
    "outcome": 1.0,
    "profit": 0.29850746268656714,
-   "clv": -0.022875322599352543
+   "clv": -0.02245961901069138,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-11",
@@ -1898,7 +3980,9 @@
    "stake": 0.0015611607059985901,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.019756426975361285
+   "clv": 0.019799701186650087,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-07",
@@ -1912,7 +3996,9 @@
    "stake": 6.855213129419834e-05,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.00791923570328612
+   "clv": -0.00899265021116269,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-09",
@@ -1926,7 +4012,9 @@
    "stake": 0.0028814892276497017,
    "outcome": 1.0,
    "profit": 0.42553191489361697,
-   "clv": -0.0048395645030876455
+   "clv": -0.0033087247245815465,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-11",
@@ -1940,7 +4028,9 @@
    "stake": 0.0014901114110063229,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.04075933238964913
+   "clv": -0.0243897822648127,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-13",
@@ -1954,7 +4044,9 @@
    "stake": 0.0021491307697365835,
    "outcome": 1.0,
    "profit": 0.7299270072992701,
-   "clv": -0.026542033681465127
+   "clv": -0.02099020816272712,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-13",
@@ -1968,7 +4060,9 @@
    "stake": 0.0007697744606649969,
    "outcome": 1.0,
    "profit": 0.7352941176470589,
-   "clv": -0.052371606793768954
+   "clv": -0.02957033067783954,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-11",
@@ -1982,7 +4076,9 @@
    "stake": 0.001275627739493713,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.015851473642126246
+   "clv": -0.03375382915727915,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-13",
@@ -1996,7 +4092,9 @@
    "stake": 9.157289982214712e-05,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.010931125740846204
+   "clv": -0.011896653674148605,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-13",
@@ -2010,7 +4108,9 @@
    "stake": 2.5679915675168582e-05,
    "outcome": 1.0,
    "profit": 0.7246376811594204,
-   "clv": -0.02597867761937378
+   "clv": -0.025561902160495253,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-14",
@@ -2024,7 +4124,9 @@
    "stake": 0.0034447466519290444,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.0016439279904794102
+   "clv": -0.020791610877348154,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-13",
@@ -2038,7 +4140,9 @@
    "stake": 0.0009213676756226988,
    "outcome": 1.0,
    "profit": 0.7692307692307692,
-   "clv": null
+   "clv": null,
+   "clv_basis": null,
+   "news": false
   },
   {
    "report_date": "2026-10-14",
@@ -2052,7 +4156,9 @@
    "stake": 0.0009010974511241598,
    "outcome": 1.0,
    "profit": 0.9174311926605505,
-   "clv": -0.017240336996045658
+   "clv": -0.017484525424858344,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-15",
@@ -2066,7 +4172,9 @@
    "stake": 0.004116344299411708,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.02242910481099958
+   "clv": -0.0229358964609232,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-16",
@@ -2080,7 +4188,9 @@
    "stake": 0.008866124795965413,
    "outcome": 1.0,
    "profit": 0.8849557522123894,
-   "clv": 0.03416337513383372
+   "clv": 0.034133861212791605,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-11",
@@ -2094,7 +4204,9 @@
    "stake": 0.004904702199668145,
    "outcome": 1.0,
    "profit": 0.8849557522123894,
-   "clv": -0.07107758791981467
+   "clv": -0.07119872494513857,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-12",
@@ -2108,7 +4220,9 @@
    "stake": 0.0011208251076506967,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.018710887231263573
+   "clv": 0.01868105292940192,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-11",
@@ -2122,7 +4236,9 @@
    "stake": 0.006143060775987632,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.12616444868752008
+   "clv": 0.12628095938343764,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-12",
@@ -2136,7 +4252,9 @@
    "stake": 0.00040181273619725635,
    "outcome": 1.0,
    "profit": 0.9174311926605505,
-   "clv": 0.13802770629742056
+   "clv": 0.1381562002420833,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-15",
@@ -2150,7 +4268,9 @@
    "stake": 0.008010345975928281,
    "outcome": 1.0,
    "profit": 0.9174311926605505,
-   "clv": 0.012984621550535036
+   "clv": -0.007915098135348853,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-14",
@@ -2164,7 +4284,9 @@
    "stake": 0.025867123010830224,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.0004075412790626176
+   "clv": 0.0009820190573057719,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-12",
@@ -2178,7 +4300,9 @@
    "stake": 0.0022654090551598445,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.027346184223159486
+   "clv": 0.0033844946301563317,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-12",
@@ -2192,7 +4316,9 @@
    "stake": 0.0041241097955323465,
    "outcome": 1.0,
    "profit": 0.9615384615384617,
-   "clv": 0.017062869607242348
+   "clv": -0.010212511867913165,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-13",
@@ -2206,7 +4332,9 @@
    "stake": 0.006925951704585695,
    "outcome": 1.0,
    "profit": 0.11111111111111116,
-   "clv": 0.005231563135625117
+   "clv": 0.006444916620549912,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-11",
@@ -2220,7 +4348,9 @@
    "stake": 0.009140353044089564,
    "outcome": 1.0,
    "profit": 0.06381620931716658,
-   "clv": -0.011429604772746016
+   "clv": -0.009339834733351982,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-12",
@@ -2234,7 +4364,9 @@
    "stake": 0.0005698859109893641,
    "outcome": 1.0,
    "profit": 0.8928571428571428,
-   "clv": -0.007592262697317387
+   "clv": -0.0077627144583176655,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-11",
@@ -2248,7 +4380,9 @@
    "stake": 0.001804157308018861,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.001407258417816859
+   "clv": -0.0009897193139813965,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-11",
@@ -2262,7 +4396,9 @@
    "stake": 0.0007289375506687927,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.017819809698558786
+   "clv": 0.025782155117843875,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-14",
@@ -2276,7 +4412,9 @@
    "stake": 0.0023938211948180766,
    "outcome": 1.0,
    "profit": 0.9174311926605505,
-   "clv": 0.032169234264047275
+   "clv": 0.032140402523999856,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-14",
@@ -2290,7 +4428,9 @@
    "stake": 0.0010847747410437955,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.07300337382493527
+   "clv": 0.07120118080995108,
+   "clv_basis": "books",
+   "news": true
   },
   {
    "report_date": "2026-10-18",
@@ -2304,7 +4444,9 @@
    "stake": 0.0060651541728040295,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.02434211889927973
+   "clv": 0.02438354585551683,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-15",
@@ -2318,7 +4460,9 @@
    "stake": 0.003611243696447941,
    "outcome": 1.0,
    "profit": 0.925925925925926,
-   "clv": 0.005956543805390346
+   "clv": -0.01332737993680333,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-13",
@@ -2332,7 +4476,9 @@
    "stake": 0.00018637942223215074,
    "outcome": 1.0,
    "profit": 0.7246376811594204,
-   "clv": -0.019505741005438004
+   "clv": -0.019026478766420496,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-17",
@@ -2346,7 +4492,9 @@
    "stake": 0.00824971897039753,
    "outcome": 1.0,
    "profit": 1.04,
-   "clv": 0.03548936518907558
+   "clv": 0.019306793475141137,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-13",
@@ -2360,7 +4508,9 @@
    "stake": 0.0062957901128861795,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.009038421199039748
+   "clv": 0.010294681638026937,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-18",
@@ -2374,7 +4524,9 @@
    "stake": 0.010848439119413217,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.023674804971966723
+   "clv": -0.010719370487445312,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-19",
@@ -2388,7 +4540,9 @@
    "stake": 0.010879447651907157,
    "outcome": 1.0,
    "profit": 0.8928571428571428,
-   "clv": 0.024832253325054787
+   "clv": 0.004697418145209298,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-21",
@@ -2402,7 +4556,9 @@
    "stake": 0.0052566824534088525,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.0302337164880499
+   "clv": 0.001571692332709873,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-23",
@@ -2416,7 +4572,9 @@
    "stake": 0.013338614362947252,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.06580903144656092
+   "clv": 0.06580903144656092,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-24",
@@ -2430,7 +4588,9 @@
    "stake": 0.004819771439535673,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.015860570282359376
+   "clv": -0.006526828766150072,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-20",
@@ -2444,7 +4604,9 @@
    "stake": 0.005807497249814105,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.010055639711008313
+   "clv": -0.004723290520936119,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-24",
@@ -2458,7 +4620,9 @@
    "stake": 0.0069753905420664964,
    "outcome": 1.0,
    "profit": 0.8695652173913042,
-   "clv": 0.015260053380396266
+   "clv": 0.015364462577490245,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-20",
@@ -2472,7 +4636,9 @@
    "stake": 0.01278646585706777,
    "outcome": 1.0,
    "profit": 0.8849557522123894,
-   "clv": -0.021510366665825398
+   "clv": -0.0343785229137778,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-19",
@@ -2486,7 +4652,9 @@
    "stake": 0.010782474192563446,
    "outcome": 1.0,
    "profit": 0.8849557522123894,
-   "clv": 0.057631343699876325
+   "clv": 0.057650531976068176,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-19",
@@ -2500,7 +4668,9 @@
    "stake": 0.00556959479206869,
    "outcome": 1.0,
    "profit": 0.9174311926605505,
-   "clv": -0.005063749384064065
+   "clv": -0.02129095612445253,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-20",
@@ -2514,7 +4684,9 @@
    "stake": 0.005933886124243046,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.013782823583681325
+   "clv": 0.01377269820854754,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-21",
@@ -2528,7 +4700,9 @@
    "stake": 0.009492004595278394,
    "outcome": 1.0,
    "profit": 0.5649717514124295,
-   "clv": 0.027000724239660046
+   "clv": 0.025959941350846227,
+   "clv_basis": "books",
+   "news": false
   },
   {
    "report_date": "2026-10-20",
@@ -2542,7 +4716,9 @@
    "stake": 0.007026331975347816,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.017039890013927028
+   "clv": 0.025877189018681857,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-18",
@@ -2556,7 +4732,9 @@
    "stake": 0.011990107407145118,
    "outcome": 1.0,
    "profit": 0.8849557522123894,
-   "clv": -0.07903302246276167
+   "clv": -0.07913078967356979,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-24",
@@ -2570,7 +4748,9 @@
    "stake": 0.004898053025380121,
    "outcome": 1.0,
    "profit": 1.17,
-   "clv": 0.023906634309632746
+   "clv": 0.00599126608586753,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-21",
@@ -2584,7 +4764,9 @@
    "stake": 0.0059967341915263365,
    "outcome": 1.0,
    "profit": 0.8928571428571428,
-   "clv": 0.009317947398675641
+   "clv": 0.009528714153034135,
+   "clv_basis": "model",
+   "news": false
   },
   {
    "report_date": "2026-10-24",
@@ -2598,7 +4780,9 @@
    "stake": 0.005520636964581653,
    "outcome": 1.0,
    "profit": 1.15,
-   "clv": 0.005712566662599838
+   "clv": 0.005473525026184534,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-25",
@@ -2612,7 +4796,9 @@
    "stake": 0.004692433185089749,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.00496247889742063
+   "clv": -0.022118437968042803,
+   "clv_basis": "rung",
+   "news": false
   },
   {
    "report_date": "2026-10-24",
@@ -2626,7 +4812,313 @@
    "stake": 0.006399544612618672,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.01887413128304316
+   "clv": 0.019116148680174083,
+   "clv_basis": "model",
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "cfb",
+   "market": "spread",
+   "side": "away",
+   "label": "Kennesaw St +0.5",
+   "book": "BetRivers",
+   "price": -110,
+   "line": 0.5,
+   "stake": 0.007088435796889685,
+   "outcome": 1.0,
+   "profit": 0.9090909090909092,
+   "clv": -0.0007267997991980968,
+   "clv_basis": "model",
+   "news": false
+  },
+  {
+   "report_date": "2026-10-24",
+   "sport": "ligamx",
+   "market": "total",
+   "side": "over",
+   "label": "Over 2.5",
+   "book": "Kalshi",
+   "price": -110,
+   "line": 2.5,
+   "stake": 0.01158372392509823,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.09371726708779493,
+   "clv_basis": "model",
+   "news": false
+  },
+  {
+   "report_date": "2026-10-24",
+   "sport": "ligamx",
+   "market": "total",
+   "side": "under",
+   "label": "Under 3.5",
+   "book": "BetRivers",
+   "price": -190,
+   "line": 3.5,
+   "stake": 0.00841627607490177,
+   "outcome": 1.0,
+   "profit": 0.5263157894736841,
+   "clv": -0.04861357034032121,
+   "clv_basis": "rung",
+   "news": false
+  },
+  {
+   "report_date": "2026-10-26",
+   "sport": "cfb",
+   "market": "total",
+   "side": "over",
+   "label": "Over 73.5",
+   "book": "BetRivers",
+   "price": -117,
+   "line": 73.5,
+   "stake": 0.011412414322638294,
+   "outcome": 1.0,
+   "profit": 0.8547008547008548,
+   "clv": 0.05244508271709647,
+   "clv_basis": "model",
+   "news": false
+  },
+  {
+   "report_date": "2026-10-31",
+   "sport": "cfb",
+   "market": "ml",
+   "side": "home",
+   "label": "Navy ML",
+   "book": "BetMGM",
+   "price": 4500,
+   "line": null,
+   "stake": 0.0004190313056205535,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.0050001243071328035,
+   "clv_basis": "books",
+   "news": false
+  },
+  {
+   "report_date": "2026-10-26",
+   "sport": "cfb",
+   "market": "spread",
+   "side": "home",
+   "label": "Syracuse +10",
+   "book": "BetRivers",
+   "price": -108,
+   "line": 10.0,
+   "stake": 0.008332666093749047,
+   "outcome": 1.0,
+   "profit": 0.925925925925926,
+   "clv": 0.029443990119903285,
+   "clv_basis": "model",
+   "news": false
+  },
+  {
+   "report_date": "2026-10-31",
+   "sport": "cfb",
+   "market": "spread",
+   "side": "away",
+   "label": "UAB +8",
+   "book": "BetRivers",
+   "price": -110,
+   "line": 8.0,
+   "stake": 0.0058296764828561776,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.019991778630563894,
+   "clv_basis": "model",
+   "news": false
+  },
+  {
+   "report_date": "2026-10-26",
+   "sport": "cfb",
+   "market": "spread",
+   "side": "away",
+   "label": "Kansas St -2.5",
+   "book": "BetRivers",
+   "price": -108,
+   "line": -2.5,
+   "stake": 0.005923107263413399,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.14111095103816484,
+   "clv_basis": "model",
+   "news": false
+  },
+  {
+   "report_date": "2026-10-27",
+   "sport": "cfb",
+   "market": "spread",
+   "side": "home",
+   "label": "Indiana -20",
+   "book": "BetRivers",
+   "price": -108,
+   "line": -20.0,
+   "stake": 0.008193886555303764,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.004337979838631045,
+   "clv_basis": "model",
+   "news": false
+  },
+  {
+   "report_date": "2026-10-31",
+   "sport": "cfb",
+   "market": "ml",
+   "side": "home",
+   "label": "Iowa State ML",
+   "book": "BetMGM",
+   "price": 290,
+   "line": null,
+   "stake": 0.0035069425870054285,
+   "outcome": 1.0,
+   "profit": 2.9,
+   "clv": -0.029031932246911557,
+   "clv_basis": "books",
+   "news": false
+  },
+  {
+   "report_date": "2026-10-31",
+   "sport": "wnba",
+   "market": "spread",
+   "side": "home",
+   "label": "Valkyries +1.5",
+   "book": "FanDuel",
+   "price": -120,
+   "line": 1.5,
+   "stake": 0.016035008045132818,
+   "outcome": 1.0,
+   "profit": 0.8333333333333335,
+   "clv": 0.04894281782811638,
+   "clv_basis": "model",
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "cfb",
+   "market": "spread",
+   "side": "away",
+   "label": "Washington +8.5",
+   "book": "BetRivers",
+   "price": -113,
+   "line": 8.5,
+   "stake": 0.019562224711643626,
+   "outcome": 1.0,
+   "profit": 0.8849557522123894,
+   "clv": 0.01259458209451425,
+   "clv_basis": "model",
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "nfl",
+   "market": "spread",
+   "side": "away",
+   "label": "Colts +9.5",
+   "book": "Kalshi",
+   "price": -104,
+   "line": 9.5,
+   "stake": 0.005424362336029495,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.00045055744030952916,
+   "clv_basis": "model",
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "nfl",
+   "market": "spread",
+   "side": "away",
+   "label": "Ravens +2.5",
+   "book": "Kalshi",
+   "price": 122,
+   "line": 2.5,
+   "stake": 0.004472669980385348,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.0009404518034110687,
+   "clv_basis": "model",
+   "news": false
+  },
+  {
+   "report_date": "2026-10-28",
+   "sport": "nfl",
+   "market": "spread",
+   "side": "away",
+   "label": "Chargers +6.5",
+   "book": "BetRivers",
+   "price": -104,
+   "line": 6.5,
+   "stake": 0.0065247894397320715,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.0162740729306452,
+   "clv_basis": "rung",
+   "news": false
+  },
+  {
+   "report_date": "2026-11-01",
+   "sport": "ncaab",
+   "market": "spread",
+   "side": "home",
+   "label": "Michigan -26.5",
+   "book": "FanDuel",
+   "price": -110,
+   "line": -26.5,
+   "stake": 0.010709432998232807,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.008333165567212752,
+   "clv_basis": "rung",
+   "news": false
+  },
+  {
+   "report_date": "2026-11-02",
+   "sport": "ncaab",
+   "market": "ml",
+   "side": "away",
+   "label": "Army ML",
+   "book": "FanDuel",
+   "price": 8000,
+   "line": null,
+   "stake": 7.274631851683644e-05,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -1.8291403349690594e-05,
+   "clv_basis": "consensus",
+   "news": false
+  },
+  {
+   "report_date": "2026-11-02",
+   "sport": "nba",
+   "market": "ml",
+   "side": "away",
+   "label": "Wizards ML",
+   "book": "FanDuel",
+   "price": 122,
+   "line": null,
+   "stake": 0.00468288446585386,
+   "outcome": 1.0,
+   "profit": 1.2199999999999998,
+   "clv": -0.02933267173154719,
+   "clv_basis": "books",
+   "news": false
+  },
+  {
+   "report_date": "2026-10-31",
+   "sport": "efl",
+   "market": "ml",
+   "side": "draw",
+   "label": "Draw",
+   "book": "Kalshi",
+   "price": 335,
+   "line": null,
+   "stake": 0.0016168562932792493,
+   "outcome": 1.0,
+   "profit": 3.3499999999999996,
+   "clv": 0.023547237654568648,
+   "clv_basis": "books",
+   "news": false
   }
  ]
 }

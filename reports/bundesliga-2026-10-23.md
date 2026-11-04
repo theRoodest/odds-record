@@ -1,0 +1,154 @@
+# Bundesliga — Friday, October 23
+
+Your books: **FanDuel · Kalshi · BetRivers**. Prices as of 8:01 AM. EV (expected value) is what each $1 bet earns on average over the long run. Bets are ranked by EV with a tilt toward likelier winners (each 10 points of win chance counts as 2¢ of EV); to qualify, a bet needs at least +2¢ per $1 and can't be a favorite shorter than −300 (thinner edges are noise and still graded for learning).
+
+## ✅ Best bets by expected value (0)
+
+No price at your books clears +2¢ of expected value right now. Passing is part of the strategy: only play hands with positive EV.
+
+## 📈 Where EV turns positive
+
+Each game as your sportsbook shows it, at the best price among your books. ✅ = a bet (+2¢ or better). Otherwise, “+EV at” is the price (or the line at −110) where it becomes one: the number to wait or shop for. Like pot odds in poker: only call when the price beats your odds.
+
+Every EV includes a safety haircut: our probability is pulled part of the way toward the book's own price, because the book is sometimes the one that's right. In use today: moneyline 33%, spread 33%, over/under 33%. The system adjusts these as results come in (see the accuracy section).
+
+### Stuttgart vs Gladbach · Fri 2:30 PM
+
+|  | Spread | Money | Total |
+|:---|:---|:---|:---|
+| Gladbach | +1.5 −104 Kalshi · EV −2.4¢ · +EV at +105 | +669 Kalshi · EV −9.4¢ · +EV at +766 | O 3.5 −140 FD · EV −5.4¢ · +EV at −117 |
+| Stuttgart | −1.5 −114 FD · EV −6.8¢ · +EV at +106 | −300 Kalshi · EV −2.9¢ · +EV at −249 | U 3.5 +117 Kalshi · EV −3.1¢ · +EV at +129 or U 4 at −110 |
+| Draw |  | +480 FD · EV −12.0¢ · +EV at +573 |  |
+
+### Augsburg vs Union Berlin · Sat 9:30 AM
+
+|  | Spread | Money | Total |
+|:---|:---|:---|:---|
+| Union Berlin | +1.5 −270 Kalshi · EV −2.9¢ · +EV at −227 | +295 BR · EV −6.4¢ · +EV at +331 | O 3.5 +120 FD · EV −3.4¢ · +EV at +133 or O 3 at −110 |
+| Augsburg | −0.5 −139 BR · EV −9.1¢ · +EV at −107 | −122 Kalshi · EV −4.3¢ · +EV at −106 | U 3.5 −144 Kalshi · EV −5.2¢ · +EV at −121 |
+| Draw |  | +295 BR · EV −8.0¢ · +EV at +339 |  |
+
+### Cologne vs Schalke · Sat 9:30 AM
+
+|  | Spread | Money | Total |
+|:---|:---|:---|:---|
+| Schalke | +1.5 −355 Kalshi · EV −2.2¢ · +EV at −296 | +230 FD · EV −6.7¢ · +EV at +261 | O 2.5 −170 FD · EV −4.5¢ · +EV at −143 |
+| Cologne | −0.5 −108 BR · EV −9.3¢ · +EV at +117 | +105 FD · EV −3.5¢ · +EV at +117 | U 3.5 −186 Kalshi · EV −3.9¢ · +EV at −158 |
+| Draw |  | +280 FD · EV −6.4¢ · +EV at +314 |  |
+
+### Mainz vs Bremen · Sat 9:30 AM
+
+|  | Spread | Money | Total |
+|:---|:---|:---|:---|
+| Bremen | +1.5 −245 Kalshi · EV −3.3¢ · +EV at −205 | +340 BR · EV −7.3¢ · +EV at +385 | O 3.5 +136 FD · EV −6.2¢ · +EV at +157 or O 2.5 at −110 |
+| Mainz | −0.5 −159 BR · EV −8.0¢ · +EV at −123 | −133 Kalshi · EV −2.1¢ · +EV at −121 | U 3.5 −168 FD · EV −3.9¢ · +EV at −144 |
+| Draw |  | +310 FD · EV −8.6¢ · +EV at +358 |  |
+
+### RB Leipzig vs Elversberg · Sat 9:30 AM
+
+|  | Spread | Money | Total |
+|:---|:---|:---|:---|
+| Elversberg | +1.5 −127 Kalshi · EV −3.2¢ · +EV at −113 | +550 FD · EV −11.3¢ · +EV at +648 | O 3.5 −141 BR · EV −6.5¢ · +EV at −115 |
+| RB Leipzig | −1.5 +100 Kalshi · EV −8.3¢ · +EV at +123 | −245 Kalshi · EV −3.3¢ · +EV at −206 | U 3.5 +120 FD · EV −1.3¢ · +EV at +128 or U 4 at −110 |
+| Draw |  | +410 BR · EV −11.3¢ · +EV at +487 |  |
+
+### Paderborn vs Hamburg · Sat 9:30 AM
+
+|  | Spread | Money | Total |
+|:---|:---|:---|:---|
+| Hamburg | +1.5 −456 Kalshi · EV −2.7¢ | +195 FD · EV −5.4¢ · +EV at +219 | O 2.5 −180 BR · EV −5.3¢ · +EV at −148 |
+| Paderborn | −0.5 +114 BR · EV −9.5¢ · +EV at +142 | +127 Kalshi · EV −4.2¢ · +EV at +142 | U 3.5 −176 FD · EV −3.5¢ · +EV at −152 |
+| Draw |  | +265 BR · EV −7.6¢ · +EV at +304 |  |
+
+### Dortmund vs Frankfurt · Sat 12:30 PM
+
+|  | Spread | Money | Total |
+|:---|:---|:---|:---|
+| Frankfurt | +1.5 −144 Kalshi · EV −3.6¢ · +EV at −126 | +488 Kalshi · EV −10.6¢ · +EV at +571 | O 3.5 −113 Kalshi · EV −5.0¢ · +EV at +103 or O 3 at −110 |
+| Dortmund | −1.5 +113 Kalshi · EV −8.2¢ · +EV at +137 | −223 Kalshi · EV −3.2¢ · +EV at −190 | U 3.5 −104 FD · EV −3.6¢ · +EV at +108 or U 4 at −110 |
+| Draw |  | +400 FD · EV −11.3¢ · +EV at +475 |  |
+
+### Hoffenheim vs Leverkusen · Sun 10:30 AM
+
+|  | Spread | Money | Total |
+|:---|:---|:---|:---|
+| Leverkusen | −0.5 +120 BR · EV −9.1¢ · +EV at +147 | +130 BR · EV −4.5¢ · +EV at +146 | O 3.5 −108 Kalshi · EV −5.9¢ · +EV at +109 or O 3 at −110 |
+| Hoffenheim | +1.5 −426 Kalshi · EV −2.3¢ | +175 FD · EV −5.6¢ · +EV at +198 | U 3.5 −113 FD · EV −4.1¢ · +EV at +101 or U 4 at −110 |
+| Draw |  | +285 Kalshi · EV −8.6¢ · +EV at +330 |  |
+
+### Freiburg vs Bayern · Sun 12:30 PM
+
+|  | Spread | Money | Total |
+|:---|:---|:---|:---|
+| Bayern | −1.5 −113 Kalshi · EV −6.5¢ · +EV at +106 | −278 BR · EV −2.6¢ · +EV at −235 | O 3.5 −174 FD · EV −6.6¢ · +EV at −139 |
+| Freiburg | +1.5 −108 Kalshi · EV −3.0¢ · +EV at +103 | +600 FD · EV −9.9¢ · +EV at +693 | U 3.5 +136 FD · EV −4.0¢ · +EV at +151 or U 4.5 at −110 |
+| Draw |  | +488 Kalshi · EV −11.7¢ · +EV at +580 |  |
+
+## 🎯 How accurate the EV has been
+
+Every price evaluated is recorded, bet or not, and graded when the game ends. That's what the system learns from.
+
+### Market status: do flagged prices beat the closing line?
+
+| Market | Status | Flagged game-sides | Average vs. close | Beat the close |
+|:---|:---|---:|---:|---:|
+| Moneyline | Unproven | 15 | +1.2 pts | 10/15 |
+| Spread | Unproven | 7 | -1.5 pts | 2/7 |
+| Over/Under | Unproven | 30 | -0.7 pts | 12/30 |
+
+*Every price the program flagged as +EV, at the time it was flagged, against the closing line (one number per game and side). Proven: 100+ with clearly positive value. Paused: 10+ with clearly negative value; its bets show as watch only and promos there are valued at the book's own price. Judged together with MLS, Premier League, La Liga, Champions League, Europa League, Conference League, EFL Championship, Serie A, Ligue 1, Liga MX, Eredivisie, Primeira Liga, Scottish Premiership (same model).*
+
+### Trust in our number vs. the book's (the haircut)
+
+| Market | Haircut in use | Best fit on results | Graded games |
+|:---|---:|---:|---:|
+| Moneyline | 33% | not enough yet | 0 |
+| Spread | 33% | not enough yet | 0 |
+| Over/Under | 33% | not enough yet | 0 |
+
+*0% = our number is right and the book is off; 100% = the book is right and there's no edge. Starts at 33% and moves toward the best fit as graded games accumulate (needs 30).*
+
+## 🏦 Books you don't use
+
+### Value bets by book, last 30 days (all sports)
+
+| Book | Yours? | Value bets | Result so far |
+|:---|:---|---:|:---|
+| BetRivers | yes | 81 | 27-24, +1.34 units (ROI +2.6%), -1.4% bankroll at suggested stakes, 10 pending |
+| DraftKings | no | 49 | 25-18-1, +1.71 units (ROI +3.9%), -0.5% bankroll at suggested stakes, 5 pending |
+| BetMGM | no | 48 | 27-18-1, +2.87 units (ROI +6.2%), +3.9% bankroll at suggested stakes, 1 pending |
+| FanDuel | yes | 42 | 17-11, +4.12 units (ROI +14.7%), +3.3% bankroll at suggested stakes, 1 pending |
+| Caesars | no | 40 | 5-16, -11.17 units (ROI -53.2%), -4.8% bankroll at suggested stakes, 3 pending |
+| Kalshi | yes | 32 | 19-13, -2.43 units (ROI -7.6%), -3.8% bankroll at suggested stakes |
+| Polymarket | no | 18 | 9-6, -3.08 units (ROI -20.5%), -9.5% bankroll at suggested stakes |
+| bet365 | no | 10 | 2-8, -6.19 units (ROI -61.9%), -2.2% bankroll at suggested stakes |
+
+## Model numbers for every game
+
+### Consensus (market share: ML 70%, spread 85%, total 85%)
+
+| Kickoff | Away @ Home | Home win | Fair ML | Spread (ours) | Spread (mkt) | Total (ours) | Total (mkt) | Pundits ATS |
+|---:|:---|---:|---:|:---|:---|---:|---:|---:|
+| Fri 10/23 02:30PM | Stuttgart vs Gladbach | 73% (D 15%) | -265 | Stuttgart -1.7 | Stuttgart -1.7 | 3.9 | 3.9 | – |
+| Sat 10/24 09:30AM | Augsburg vs Union Berlin | 53% (D 23%) | -111 | Augsburg -0.7 | Augsburg -0.7 | 3.4 | 3.4 | – |
+| Sat 10/24 09:30AM | Cologne vs Schalke | 47% (D 25%) | +112 | Cologne -0.4 | Cologne -0.4 | 3.1 | 3.1 | – |
+| Sat 10/24 09:30AM | Mainz vs Bremen | 56% (D 22%) | -128 | Mainz -0.8 | Mainz -0.8 | 3.2 | 3.2 | – |
+| Sat 10/24 09:30AM | RB Leipzig vs Elversberg | 69% (D 18%) | -219 | RB Leipzig -1.5 | RB Leipzig -1.5 | 3.9 | 3.9 | – |
+| Sat 10/24 09:30AM | Paderborn vs Hamburg | 42% (D 25%) | +135 | Paderborn -0.2 | Paderborn -0.2 | 3.1 | 3.1 | – |
+| Sat 10/24 12:30PM | Dortmund vs Frankfurt | 67% (D 18%) | -201 | Dortmund -1.4 | Dortmund -1.4 | 3.7 | 3.7 | – |
+| Sun 10/25 10:30AM | Hoffenheim vs Leverkusen | 34% (D 24%) | +190 | Leverkusen -0.2 | Leverkusen -0.2 | 3.6 | 3.6 | – |
+| Sun 10/25 12:30PM | Freiburg vs Bayern | 13% (D 15%) | +654 | Bayern -1.7 | Bayern -1.7 | 4.1 | 4.1 | – |
+
+
+*Edges come mostly from price differences between books; `odds backtest --sport bundesliga` shows how the blend compares with the closing line. Not financial advice.*
+## Data collected
+
+Generated 2026-10-23 08:01 AM local time.
+
+- ✓ Refreshed 0 final scores across 0 day(s)
+- ✓ ESPN: 10 games (10 upcoming)
+- ✓ Action Network: 58 book prices on 10 games
+- ✓ Pinnacle (The Odds API): 10 games, 16920 credits left this month
+- ✓ Kalshi: 10 games (9 unmatched)
+- ✓ ESPN predictor: 0 games
+- ✓ DRatings: 1 games
