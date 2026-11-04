@@ -1,8 +1,8 @@
 {
- "built_at": "2026-11-04T06:10-05:00",
+ "built_at": "2026-11-04T07:05-05:00",
  "overall": {
   "key": "all",
-  "flagged": 285,
+  "flagged": 290,
   "settled": 232,
   "wins": 84,
   "losses": 148,
@@ -63,7 +63,7 @@
  "by_sport": {
   "pga": {
    "key": "pga",
-   "flagged": 131,
+   "flagged": 136,
    "settled": 84,
    "wins": 2,
    "losses": 82,
@@ -485,7 +485,7 @@
  "by_market": {
   "pga/top20": {
    "key": "pga/top20",
-   "flagged": 60,
+   "flagged": 63,
    "settled": 35,
    "wins": 2,
    "losses": 33,
@@ -515,7 +515,7 @@
   },
   "pga/top10": {
    "key": "pga/top10",
-   "flagged": 42,
+   "flagged": 44,
    "settled": 22,
    "wins": 0,
    "losses": 22,
@@ -1320,46 +1320,52 @@
    "date": "2026-10-28",
    "files": 39,
    "source_commit": "7f99a8bede12ae99a1e65d9d468ee5b928cb2a4f",
-   "public_commit": null
+   "public_commit": "8dd03a69cebf7c53101170488a3f1604f3966885"
   },
   {
    "date": "2026-10-29",
    "files": 41,
    "source_commit": "3f72ca3f014295da7c40f0b63a9c151de38d61b6",
-   "public_commit": null
+   "public_commit": "8dd03a69cebf7c53101170488a3f1604f3966885"
   },
   {
    "date": "2026-10-30",
    "files": 65,
    "source_commit": "ede8562826d68165176d3ed5b016d4f09eed0c6a",
-   "public_commit": null
+   "public_commit": "8dd03a69cebf7c53101170488a3f1604f3966885"
   },
   {
    "date": "2026-10-31",
    "files": 44,
    "source_commit": "bf8189335f856a7e2e2004f14281a0479a9a6a32",
-   "public_commit": null
+   "public_commit": "8dd03a69cebf7c53101170488a3f1604f3966885"
   },
   {
    "date": "2026-11-01",
    "files": 62,
    "source_commit": "24e44caa9d09d3b6224fb5764e272e4a00e4833c",
-   "public_commit": null
+   "public_commit": "8dd03a69cebf7c53101170488a3f1604f3966885"
   },
   {
    "date": "2026-11-02",
    "files": 59,
    "source_commit": "dfadeb429957bcfcd3a0ad10a99f461819b3a83b",
-   "public_commit": null
+   "public_commit": "8dd03a69cebf7c53101170488a3f1604f3966885"
   },
   {
    "date": "2026-11-03",
    "files": 59,
    "source_commit": "2f8a3aa57bdbeb050337b04ce7f036b5a9248b25",
-   "public_commit": null
+   "public_commit": "8dd03a69cebf7c53101170488a3f1604f3966885"
+  },
+  {
+   "date": "2026-11-04",
+   "files": 21,
+   "source_commit": "46c5671a9601c525b489c27390bfec8dd7f0b22a",
+   "public_commit": "8dd03a69cebf7c53101170488a3f1604f3966885"
   }
  ],
- "unbroken_days": 15,
+ "unbroken_days": 16,
  "changelog": [
   [
    "2026-10-03",
