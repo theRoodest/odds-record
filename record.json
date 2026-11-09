@@ -1,5 +1,5 @@
 {
- "built_at": "2026-11-09T07:03-05:00",
+ "built_at": "2026-11-09T07:45-05:00",
  "overall": {
   "key": "all",
   "flagged": 298,
@@ -541,7 +541,7 @@
    "beat_close_ex_news": 37,
    "first": "2026-10-20",
    "last": "2026-11-05",
-   "status": ""
+   "status": "paused (owner, Nov 9, 2026)"
   },
   "pga/top5": {
    "key": "pga/top5",
@@ -571,7 +571,7 @@
    "beat_close_ex_news": 17,
    "first": "2026-10-20",
    "last": "2026-11-03",
-   "status": ""
+   "status": "paused (owner, Nov 9, 2026)"
   },
   "cfb/spread": {
    "key": "cfb/spread",
@@ -1390,7 +1390,7 @@
   },
   {
    "date": "2026-11-09",
-   "files": 8,
+   "files": 17,
    "source_commit": "5ca81f37cf807a9160f7929c9fc71ff81d1624dd",
    "public_commit": "e0c9a9b10ffef67e819be072ac8a30c941c423ba"
   }
