@@ -1,8 +1,8 @@
 {
- "built_at": "2026-11-10T06:10-05:00",
+ "built_at": "2026-11-10T07:03-05:00",
  "overall": {
   "key": "all",
-  "flagged": 308,
+  "flagged": 317,
   "settled": 298,
   "wins": 91,
   "losses": 207,
@@ -63,7 +63,7 @@
  "by_sport": {
   "pga": {
    "key": "pga",
-   "flagged": 148,
+   "flagged": 157,
    "settled": 138,
    "wins": 5,
    "losses": 133,
@@ -483,9 +483,39 @@
   }
  },
  "by_market": {
+  "pga/top10": {
+   "key": "pga/top10",
+   "flagged": 53,
+   "settled": 46,
+   "wins": 0,
+   "losses": 46,
+   "pushes": 0,
+   "hit_rate": 0.0,
+   "roi_flat": -1.0,
+   "roi_flat_ci": [
+    -1.0,
+    -1.0
+   ],
+   "roi_staked": -1.0,
+   "n_close": 46,
+   "clv_mean": 0.010211277701773342,
+   "clv_ci": [
+    0.007178718901732597,
+    0.013243836501814087
+   ],
+   "beat_close": 37,
+   "n_close_model": 0,
+   "n_news": 0,
+   "clv_ex_news_mean": 0.010211277701773342,
+   "n_close_ex_news": 46,
+   "beat_close_ex_news": 37,
+   "first": "2026-10-20",
+   "last": "2026-11-10",
+   "status": "paused (owner, Nov 9, 2026)"
+  },
   "pga/top20": {
    "key": "pga/top20",
-   "flagged": 67,
+   "flagged": 73,
    "settled": 63,
    "wins": 5,
    "losses": 58,
@@ -539,36 +569,6 @@
    "clv_ex_news_mean": 0.002856865007830945,
    "n_close_ex_news": 29,
    "beat_close_ex_news": 17,
-   "first": "2026-10-20",
-   "last": "2026-11-10",
-   "status": "paused (owner, Nov 9, 2026)"
-  },
-  "pga/top10": {
-   "key": "pga/top10",
-   "flagged": 50,
-   "settled": 46,
-   "wins": 0,
-   "losses": 46,
-   "pushes": 0,
-   "hit_rate": 0.0,
-   "roi_flat": -1.0,
-   "roi_flat_ci": [
-    -1.0,
-    -1.0
-   ],
-   "roi_staked": -1.0,
-   "n_close": 46,
-   "clv_mean": 0.010211277701773342,
-   "clv_ci": [
-    0.007178718901732597,
-    0.013243836501814087
-   ],
-   "beat_close": 37,
-   "n_close_model": 0,
-   "n_news": 0,
-   "clv_ex_news_mean": 0.010211277701773342,
-   "n_close_ex_news": 46,
-   "beat_close_ex_news": 37,
    "first": "2026-10-20",
    "last": "2026-11-10",
    "status": "paused (owner, Nov 9, 2026)"
@@ -1393,9 +1393,15 @@
    "files": 19,
    "source_commit": "5ca81f37cf807a9160f7929c9fc71ff81d1624dd",
    "public_commit": "e0c9a9b10ffef67e819be072ac8a30c941c423ba"
+  },
+  {
+   "date": "2026-11-10",
+   "files": 8,
+   "source_commit": "a824c73cd0901ec1f5944720de821773be756863",
+   "public_commit": "f6e4eccafa4afff602b35fb7f8ddcadf34e91790"
   }
  ],
- "unbroken_days": 21,
+ "unbroken_days": 22,
  "changelog": [
   [
    "2026-10-03",
