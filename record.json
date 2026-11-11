@@ -1,8 +1,8 @@
 {
- "built_at": "2026-11-11T06:08-05:00",
+ "built_at": "2026-11-11T07:03-05:00",
  "overall": {
   "key": "all",
-  "flagged": 325,
+  "flagged": 330,
   "settled": 298,
   "wins": 91,
   "losses": 207,
@@ -63,7 +63,7 @@
  "by_sport": {
   "pga": {
    "key": "pga",
-   "flagged": 164,
+   "flagged": 169,
    "settled": 138,
    "wins": 5,
    "losses": 133,
@@ -515,7 +515,7 @@
   },
   "pga/top20": {
    "key": "pga/top20",
-   "flagged": 80,
+   "flagged": 84,
    "settled": 63,
    "wins": 5,
    "losses": 58,
@@ -545,7 +545,7 @@
   },
   "pga/top5": {
    "key": "pga/top5",
-   "flagged": 31,
+   "flagged": 32,
    "settled": 29,
    "wins": 0,
    "losses": 29,
@@ -570,7 +570,7 @@
    "n_close_ex_news": 29,
    "beat_close_ex_news": 17,
    "first": "2026-10-20",
-   "last": "2026-11-10",
+   "last": "2026-11-11",
    "status": "paused (owner, Nov 9, 2026)"
   },
   "cfb/spread": {
@@ -1423,9 +1423,15 @@
    "files": 16,
    "source_commit": "a824c73cd0901ec1f5944720de821773be756863",
    "public_commit": "f6e4eccafa4afff602b35fb7f8ddcadf34e91790"
+  },
+  {
+   "date": "2026-11-11",
+   "files": 8,
+   "source_commit": "96ee37d5843cdaeab0b9be33eddd901870031e08",
+   "public_commit": "0007615447e188a13bbae5bce58eb3820aaa4a93"
   }
  ],
- "unbroken_days": 22,
+ "unbroken_days": 23,
  "changelog": [
   [
    "2026-10-03",
