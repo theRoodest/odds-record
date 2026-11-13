@@ -1,8 +1,8 @@
 {
- "built_at": "2026-11-13T06:14-05:00",
+ "built_at": "2026-11-13T07:03-05:00",
  "overall": {
   "key": "all",
-  "flagged": 340,
+  "flagged": 341,
   "settled": 299,
   "wins": 92,
   "losses": 207,
@@ -32,7 +32,7 @@
  },
  "no_golf": {
   "key": "all but golf",
-  "flagged": 164,
+  "flagged": 165,
   "settled": 161,
   "wins": 87,
   "losses": 74,
@@ -453,7 +453,7 @@
   },
   "ncaab": {
    "key": "ncaab",
-   "flagged": 6,
+   "flagged": 7,
    "settled": 3,
    "wins": 1,
    "losses": 2,
@@ -1172,7 +1172,7 @@
   },
   "ncaab/ml": {
    "key": "ncaab/ml",
-   "flagged": 4,
+   "flagged": 5,
    "settled": 1,
    "wins": 0,
    "losses": 1,
@@ -1441,9 +1441,15 @@
    "files": 17,
    "source_commit": "c39e3331dc4fc1fb46c5dc46a31c760bf5e3153f",
    "public_commit": "a9c57a34f177d343ac62d0b69b2208d7fc05a74f"
+  },
+  {
+   "date": "2026-11-13",
+   "files": 8,
+   "source_commit": "79e174659dc6339774d347dced073a0ebe0e80b3",
+   "public_commit": "48d1b851918ca268ab0c704fe86ae9bea87bc9b8"
   }
  ],
- "unbroken_days": 24,
+ "unbroken_days": 25,
  "changelog": [
   [
    "2026-10-03",
