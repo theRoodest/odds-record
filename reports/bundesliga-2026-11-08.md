@@ -1,0 +1,135 @@
+# Bundesliga — Sunday, November 8
+
+Your books: **FanDuel · Kalshi · DraftKings · BetMGM**. Prices as of 6:25 AM. EV (expected value) is what each $1 bet earns on average over the long run. Bets are ranked by EV with a tilt toward likelier winners (each 10 points of win chance counts as 2¢ of EV); to qualify, a bet needs at least +2¢ per $1 (+4¢ for spreads and totals, which have lost to the close so far) and can't be a favorite shorter than −300 (thinner edges are noise and still graded for learning).
+
+## ✅ Best bets by expected value (0)
+
+No price at your books clears +2¢ of expected value right now. Passing is part of the strategy: only play hands with positive EV.
+
+## How the last report did
+
+Bets: 0-1, -1.00 units (ROI -100.0%), -0.5% bankroll at suggested stakes. Season: 0-1, -1.00 units (ROI -100.0%), -0.5% bankroll at suggested stakes. Details: odds review --sport bundesliga --date 2026-10-25
+
+| Bet | Game | Book | Price | Edge | Stake | Final (away-home) | Result | Units |
+|:---|:---|:---|---:|---:|---:|---:|:---|---:|
+| Under 3.5 | Freiburg vs Bayern | FanDuel | +114 | +1.0 | 0.5% | 3-1 | L | -1.00 |
+
+## 📈 Where EV turns positive
+
+Each game as your sportsbook shows it, at the best price among your books. ✅ = a bet (+2¢ or better; +4¢ for spreads and totals). Otherwise, “+EV at” is the price (or the line at −110) where it becomes one: the number to wait or shop for. Like pot odds in poker: only call when the price beats your odds.
+
+Every EV includes a safety haircut: our probability is pulled part of the way toward the book's own price, because the book is sometimes the one that's right. In use today: moneyline 33%, spread 33%, over/under 33%. The system adjusts these as results come in (see the accuracy section).
+
+### Cologne vs Leverkusen · Sun 9:30 AM
+
+|  | Spread | Money | Total |
+|:---|:---|:---|:---|
+| Leverkusen | −0.5 −140 MGM · EV −5.8¢ · +EV at −112 | −130 MGM · EV −3.2¢ · +EV at −115 | O 3.5 +138 Kalshi · EV −2.6¢ · +EV at +155 or O 2.5 at −110 |
+| Cologne | +1.5 −245 Kalshi · EV −2.0¢ · +EV at −202 | +330 FD · EV −8.0¢ · +EV at +377 | U 3.5 −170 Kalshi · EV −6.2¢ · +EV at −131 |
+| Draw |  | +290 MGM · EV −8.3¢ · +EV at +334 |  |
+
+### Freiburg vs Union Berlin · Sun 11:30 AM
+
+|  | Spread | Money | Total |
+|:---|:---|:---|:---|
+| Union Berlin | +1.5 −150 Kalshi · EV −2.4¢ · +EV at −128 | +614 Kalshi · EV −10.2¢ · +EV at +711 | O 2.5 −150 Kalshi · EV −3.5¢ · +EV at −125 |
+| Freiburg | −1.5 +126 FD · EV −7.6¢ · +EV at +155 | −223 Kalshi · EV −2.5¢ · +EV at −194 | U 2.5 +128 FD · EV −4.7¢ · +EV at +149 or U 3 at −110 |
+| Draw |  | +375 MGM · EV −7.0¢ · +EV at +422 |  |
+
+### Hoffenheim vs Schalke · Sun 1:30 PM
+
+|  | Spread | Money | Total |
+|:---|:---|:---|:---|
+| Schalke | +1.5 −186 Kalshi · EV −2.5¢ · +EV at −156 | +456 Kalshi · EV −7.0¢ · +EV at +510 | O 3.5 +136 FD · EV −4.8¢ · +EV at +158 or O 2.5 at −110 |
+| Hoffenheim | −0.5 −185 DK · EV −5.8¢ · +EV at −142 | −165 MGM · EV −1.3¢ · +EV at −151 | U 3.5 −163 Kalshi · EV −3.9¢ · +EV at −133 |
+| Draw |  | +340 MGM · EV −7.2¢ · +EV at +384 |  |
+
+## 🎯 How accurate the EV has been
+
+Every price evaluated is recorded, bet or not, and graded when the game ends. That's what the system learns from.
+
+### Market status: do flagged prices beat the closing line?
+
+| Market | Status | Flagged game-sides | Average vs. close | Beat the close |
+|:---|:---|---:|---:|---:|
+| Moneyline | Unproven | 43 | +0.9 pts | 28/43 |
+| Spread | Unproven | 8 | -1.4 pts | 2/8 |
+| Over/Under | Unproven | 69 | -0.7 pts | 19/69 |
+
+*Every price the program flagged as +EV, at the time it was flagged, against the closing line (one number per game and side). Proven: 100+ with clearly positive value. Paused: 10+ with clearly negative value; its bets show as watch only and promos there are valued at the book's own price. Judged together with MLS, Premier League, La Liga, Champions League, Europa League, Conference League, EFL Championship, Serie A, Ligue 1, Liga MX, Eredivisie, Primeira Liga, Scottish Premiership (same model).*
+
+### Predicted EV vs. what happened (168 graded prices at your books, bet or not)
+
+| Predicted EV per $1 | Prices | We predicted | Actually returned | Margin of error | Won | Beat the close by |
+|:---|---:|---:|---:|---:|---:|---:|
+| worse than −5¢ | 92 | -7.2¢ | -8.5¢ | ±32¢ | 30/92 | -1.7 pts (92) |
+| −5¢ to −2¢ | 58 | -3.4¢ | +5.1¢ | ±26¢ | 33/58 | -3.3 pts (58) |
+| −2¢ to 0 | 15 | -1.2¢ | +13.2¢ | ±38¢ | 11/15 | -5.2 pts (15) |
+| 0 to +2¢ | 2 | +1.1¢ | -100.0¢ | ±0¢ | 0/2 | -0.5 pts (2) |
+| better than +2¢ | 1 | +2.0¢ | -100.0¢ | ±0¢ | 0/1 | -0.8 pts (1) |
+
+*Includes every side the program passed on. Accurate EV means “actually returned” tracks “we predicted”. If the rows just below zero make money or beat the closing line, the program is passing on bets it should take. “Beat the close by” is the closing line's fair probability minus the break-even probability of the price (points; positive = the price was better than the close).*
+
+### Trust in our number vs. the book's (the haircut)
+
+| Market | Haircut in use | Best fit on results | Graded games |
+|:---|---:|---:|---:|
+| Moneyline | 33% | not enough yet | 24 |
+| Spread | 33% | not enough yet | 24 |
+| Over/Under | 33% | not enough yet | 24 |
+
+*0% = our number is right and the book is off; 100% = the book is right and there's no edge. Starts at 33% and moves toward the best fit as graded games accumulate (needs 30). A book's or price band's haircut stays within 15 points of its market's; a bet gets both adjustments.*
+
+Bets so far: 1 settled. Predicted +0.02 units, actual -1.00 units. Small samples swing widely; the gap should narrow over time. Closing-line value: 1 bets had a captured close; average -2.2 points, 0/1 beat the close. Beating the close consistently is the surest sign of real EV.
+
+## 🏦 Books you don't use
+
+Positive EV today that only another book offers:
+
+- **Under 3.5** at Caesars **−127** — Cologne vs Leverkusen, Sun 9:30 AM
+   We make it 58.2% to win vs 55.9% needed → **EV +4.1¢ per $1** · stake 1.0% of bankroll · price only (no proven model)
+
+### Value bets by book, last 30 days (all sports)
+
+| Book | Yours? | Value bets | Result so far |
+|:---|:---|---:|:---|
+| BetRivers | no | 106 | 32-27, +1.51 units (ROI +2.6%), +3.1% bankroll at suggested stakes |
+| FanDuel | yes | 101 | 10-10, -0.69 units (ROI -3.4%), -0.0% bankroll at suggested stakes |
+| Caesars | no | 67 | 6-13, -8.12 units (ROI -42.7%), -3.0% bankroll at suggested stakes, 4 pending |
+| DraftKings | yes | 46 | 22-14-1, +5.08 units (ROI +13.7%), -0.2% bankroll at suggested stakes |
+| Kalshi | yes | 31 | 10-13, -4.41 units (ROI -19.2%), -6.7% bankroll at suggested stakes |
+| BetMGM | yes | 30 | 17-8-1, +6.52 units (ROI +25.1%), +3.9% bankroll at suggested stakes |
+| Polymarket | no | 25 | 7-15, -14.25 units (ROI -64.8%), -15.8% bankroll at suggested stakes |
+| bet365 | no | 8 | 1-6, -5.09 units (ROI -72.7%), -1.8% bankroll at suggested stakes, 1 pending |
+
+## ⚖️ Cross-venue gaps
+
+9 exchange sides at Kalshi and Polymarket priced against Pinnacle's no-vig line over the last 6 h (6 game-snapshots). Exchange prices include the taker fee. **0** show a positive gap right now (the exchange is cheaper than Pinnacle thinks the side is worth); **0** of those held in at least 75% of 4+ snapshots. A gap is not a bet: the bot and the EV sections price against the full consensus. This table is the evidence for whether structural cross-venue gaps exist at all.
+
+## Model numbers for every game
+
+### Consensus (market share: ML 70%, spread 85%, total 85%)
+
+| Kickoff | Away @ Home | Home win | Fair ML | Spread (ours) | Spread (mkt) | Total (ours) | Total (mkt) | Pundits ATS |
+|---:|:---|---:|---:|:---|:---|---:|---:|---:|
+| Sun 11/08 09:30AM | Cologne vs Leverkusen | 22% (D 23%) | +365 | Leverkusen -0.8 | Leverkusen -0.8 | 3.2 | 3.2 | – |
+| Sun 11/08 11:30AM | Freiburg vs Union Berlin | 67% (D 20%) | -203 | Freiburg -1.3 | Freiburg -1.3 | 3.0 | 3.0 | – |
+| Sun 11/08 01:30PM | Hoffenheim vs Schalke | 62% (D 21%) | -160 | Hoffenheim -1.1 | Hoffenheim -1.1 | 3.3 | 3.3 | – |
+
+
+*Edges come mostly from price differences between books; `odds backtest --sport bundesliga` shows how the blend compares with the closing line. Not financial advice.*
+## Data collected
+
+Generated 2026-11-08 06:25 AM local time.
+
+- ✓ Refreshed 0 final scores across 0 day(s); closing lines attached to 300 evaluations
+- ✓ ESPN: 8 games (3 upcoming)
+- ✓ Action Network: 18 book prices on 3 games
+- ✓ Pinnacle (The Odds API): 9 games, 17969 credits left this month
+- ✓ Kalshi: 3 games (9 unmatched)
+- ✓ ESPN predictor: 0 games
+- ✓ DRatings: 3 games
+
+---
+
+*21+ only, where legal. Gambling problem? Call 1-800-GAMBLER. Information and entertainment, not financial advice. Every price above was logged before kickoff and is graded against the closing line, including the ones that lose.*
