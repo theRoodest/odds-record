@@ -1,63 +1,63 @@
 {
- "built_at": "2026-11-20T06:11-05:00",
+ "built_at": "2026-11-21T06:12-05:00",
  "overall": {
   "key": "all",
-  "flagged": 373,
-  "settled": 314,
-  "wins": 97,
-  "losses": 217,
+  "flagged": 377,
+  "settled": 322,
+  "wins": 99,
+  "losses": 223,
   "pushes": 0,
-  "hit_rate": 0.3089171974522293,
-  "roi_flat": -0.23554080626923213,
+  "hit_rate": 0.30745341614906835,
+  "roi_flat": -0.23782550673459282,
   "roi_flat_ci": [
-   -0.4497061684215594,
-   -0.02137544411690484
+   -0.4476867218770785,
+   -0.027964291592107143
   ],
-  "roi_staked": -0.08257142912921339,
-  "n_close": 347,
-  "clv_mean": 0.006212181583287661,
+  "roi_staked": -0.11544668528976279,
+  "n_close": 355,
+  "clv_mean": 0.00621997511668905,
   "clv_ci": [
-   0.0031178001367184963,
-   0.009306563029856826
+   0.003133621456570781,
+   0.009306328776807319
   ],
-  "beat_close": 213,
-  "n_close_model": 54,
+  "beat_close": 217,
+  "n_close_model": 59,
   "n_news": 9,
-  "clv_ex_news_mean": 0.0052693463530908,
-  "n_close_ex_news": 338,
-  "beat_close_ex_news": 205,
+  "clv_ex_news_mean": 0.005299142266960938,
+  "n_close_ex_news": 346,
+  "beat_close_ex_news": 209,
   "first": "2026-10-03",
-  "last": "2026-11-20",
+  "last": "2026-11-21",
   "status": ""
  },
  "no_golf": {
   "key": "all but golf",
-  "flagged": 197,
-  "settled": 176,
-  "wins": 92,
-  "losses": 84,
+  "flagged": 201,
+  "settled": 184,
+  "wins": 94,
+  "losses": 90,
   "pushes": 0,
-  "hit_rate": 0.5227272727272727,
-  "roi_flat": 0.006364697906029499,
+  "hit_rate": 0.5108695652173914,
+  "roi_flat": -0.008151158524667437,
   "roi_flat_ci": [
-   -0.1489850253819958,
-   0.1617144211940548
+   -0.16139055092650442,
+   0.14508823387716954
   ],
-  "roi_staked": -0.015650928975417717,
-  "n_close": 171,
-  "clv_mean": 0.0008393674793405013,
+  "roi_staked": -0.059501313038437115,
+  "n_close": 179,
+  "clv_mean": 0.0010949496982738608,
   "clv_ci": [
-   -0.005000055471630455,
-   0.006678790430311457
+   -0.004617360686407322,
+   0.006807260082955044
   ],
-  "beat_close": 73,
-  "n_close_model": 54,
+  "beat_close": 77,
+  "n_close_model": 59,
   "n_news": 8,
-  "clv_ex_news_mean": -0.0010391989964554352,
-  "n_close_ex_news": 163,
-  "beat_close_ex_news": 66,
+  "clv_ex_news_mean": -0.0006837735637335696,
+  "n_close_ex_news": 171,
+  "beat_close_ex_news": 70,
   "first": "2026-10-03",
-  "last": "2026-11-20",
+  "last": "2026-11-21",
   "status": ""
  },
  "by_sport": {
@@ -94,31 +94,31 @@
   "cfb": {
    "key": "cfb",
    "flagged": 94,
-   "settled": 82,
+   "settled": 84,
    "wins": 44,
-   "losses": 38,
+   "losses": 40,
    "pushes": 0,
-   "hit_rate": 0.5365853658536586,
-   "roi_flat": 0.009128769526905972,
+   "hit_rate": 0.5238095238095238,
+   "roi_flat": -0.01489810593802036,
    "roi_flat_ci": [
-    -0.21706133216752352,
-    0.23531887122133546
+    -0.23813756236619432,
+    0.20834135049015362
    ],
-   "roi_staked": 0.08465063038314612,
-   "n_close": 80,
-   "clv_mean": 0.008102524341253033,
+   "roi_staked": 0.030908553317804094,
+   "n_close": 82,
+   "clv_mean": 0.008453862054116428,
    "clv_ci": [
-    -0.001516426653882557,
-    0.017721475336388622
+    -0.0012168236344913645,
+    0.01812454774272422
    ],
-   "beat_close": 44,
-   "n_close_model": 37,
+   "beat_close": 45,
+   "n_close_model": 39,
    "n_news": 3,
-   "clv_ex_news_mean": 0.0066871104073723065,
-   "n_close_ex_news": 77,
-   "beat_close_ex_news": 41,
+   "clv_ex_news_mean": 0.007087623322847749,
+   "n_close_ex_news": 79,
+   "beat_close_ex_news": 42,
    "first": "2026-10-03",
-   "last": "2026-11-20",
+   "last": "2026-11-21",
    "status": ""
   },
   "nfl": {
@@ -153,7 +153,7 @@
   },
   "nhl": {
    "key": "nhl",
-   "flagged": 36,
+   "flagged": 37,
    "settled": 36,
    "wins": 21,
    "losses": 15,
@@ -178,7 +178,7 @@
    "n_close_ex_news": 33,
    "beat_close_ex_news": 2,
    "first": "2026-10-04",
-   "last": "2026-11-19",
+   "last": "2026-11-21",
    "status": ""
   },
   "mls": {
@@ -274,29 +274,29 @@
   "nba": {
    "key": "nba",
    "flagged": 7,
-   "settled": 3,
-   "wins": 2,
-   "losses": 1,
+   "settled": 7,
+   "wins": 3,
+   "losses": 4,
    "pushes": 0,
-   "hit_rate": 0.6666666666666666,
-   "roi_flat": 0.3421505376344085,
+   "hit_rate": 0.42857142857142855,
+   "roi_flat": -0.12050691244239638,
    "roi_flat_ci": [
-    -0.9938074778553547,
-    1.6781085531241717
+    -0.9384238930329679,
+    0.6974100681481751
    ],
-   "roi_staked": 0.002415234137673301,
-   "n_close": 3,
-   "clv_mean": 0.008349639299585912,
+   "roi_staked": -0.3326262270284314,
+   "n_close": 7,
+   "clv_mean": 0.002244431483732466,
    "clv_ci": [
-    -0.04886463320060016,
-    0.06556391179977199
+    -0.024120160030451022,
+    0.028609022997915953
    ],
-   "beat_close": 1,
-   "n_close_model": 1,
+   "beat_close": 3,
+   "n_close_model": 4,
    "n_news": 0,
-   "clv_ex_news_mean": 0.008349639299585912,
-   "n_close_ex_news": 3,
-   "beat_close_ex_news": 1,
+   "clv_ex_news_mean": 0.002244431483732466,
+   "n_close_ex_news": 7,
+   "beat_close_ex_news": 3,
    "first": "2026-10-23",
    "last": "2026-11-20",
    "status": ""
@@ -453,32 +453,32 @@
   },
   "ncaab": {
    "key": "ncaab",
-   "flagged": 17,
-   "settled": 15,
-   "wins": 6,
-   "losses": 9,
+   "flagged": 20,
+   "settled": 17,
+   "wins": 7,
+   "losses": 10,
    "pushes": 0,
-   "hit_rate": 0.4,
-   "roi_flat": -0.06690301629665643,
+   "hit_rate": 0.4117647058823529,
+   "roi_flat": 0.014497338561773735,
    "roi_flat_ci": [
-    -0.7242373691719908,
-    0.590431336578678
+    -0.6336688382090847,
+    0.6626635153326321
    ],
-   "roi_staked": -0.03567606098837119,
-   "n_close": 15,
-   "clv_mean": -0.005337983068658312,
+   "roi_staked": 0.005401720086284891,
+   "n_close": 17,
+   "clv_mean": -0.0037224960371031383,
    "clv_ci": [
-    -0.03137233790610129,
-    0.02069637176878467
+    -0.026748205177816304,
+    0.019303213103610026
    ],
-   "beat_close": 8,
+   "beat_close": 9,
    "n_close_model": 1,
    "n_news": 3,
-   "clv_ex_news_mean": -0.008796093488555742,
-   "n_close_ex_news": 12,
-   "beat_close_ex_news": 6,
+   "clv_ex_news_mean": -0.006340414890253399,
+   "n_close_ex_news": 14,
+   "beat_close_ex_news": 7,
    "first": "2026-11-01",
-   "last": "2026-11-20",
+   "last": "2026-11-21",
    "status": ""
   }
  },
@@ -588,15 +588,15 @@
    ],
    "roi_staked": 0.24695213194691915,
    "n_close": 45,
-   "clv_mean": 0.0014909749285916842,
+   "clv_mean": 0.0014896581164272097,
    "clv_ci": [
-    -0.013305845467506038,
-    0.016287795324689405
+    -0.0133052916145018,
+    0.01628460784735622
    ],
    "beat_close": 21,
    "n_close_model": 28,
    "n_news": 0,
-   "clv_ex_news_mean": 0.0014909749285916842,
+   "clv_ex_news_mean": 0.0014896581164272097,
    "n_close_ex_news": 45,
    "beat_close_ex_news": 21,
    "first": "2026-10-03",
@@ -630,7 +630,7 @@
    "n_close_ex_news": 22,
    "beat_close_ex_news": 10,
    "first": "2026-10-03",
-   "last": "2026-11-20",
+   "last": "2026-11-21",
    "status": "unproven"
   },
   "nfl/spread": {
@@ -695,7 +695,7 @@
   },
   "nhl/ml": {
    "key": "nhl/ml",
-   "flagged": 10,
+   "flagged": 11,
    "settled": 10,
    "wins": 4,
    "losses": 6,
@@ -720,7 +720,7 @@
    "n_close_ex_news": 9,
    "beat_close_ex_news": 0,
    "first": "2026-10-06",
-   "last": "2026-11-19",
+   "last": "2026-11-21",
    "status": "unproven"
   },
   "mls/total": {
@@ -756,29 +756,29 @@
   "cfb/total": {
    "key": "cfb/total",
    "flagged": 15,
-   "settled": 10,
+   "settled": 12,
    "wins": 3,
-   "losses": 7,
+   "losses": 9,
    "pushes": 0,
-   "hit_rate": 0.3,
-   "roi_flat": -0.44028749028749026,
+   "hit_rate": 0.25,
+   "roi_flat": -0.5335729085729085,
    "roi_flat_ci": [
-    -0.998987717737004,
-    0.1184127371620235
+    -1.011089766759575,
+    -0.05605605038624195
    ],
-   "roi_staked": -0.41510632875447767,
-   "n_close": 10,
-   "clv_mean": 0.044956430183253196,
+   "roi_staked": -0.5522071229198809,
+   "n_close": 12,
+   "clv_mean": 0.041219858293103144,
    "clv_ci": [
-    0.020480912294015118,
-    0.06943194807249127
+    0.014805537371791366,
+    0.06763417921441492
    ],
-   "beat_close": 10,
-   "n_close_model": 9,
+   "beat_close": 11,
+   "n_close_model": 11,
    "n_news": 0,
-   "clv_ex_news_mean": 0.044956430183253196,
-   "n_close_ex_news": 10,
-   "beat_close_ex_news": 10,
+   "clv_ex_news_mean": 0.041219858293103144,
+   "n_close_ex_news": 12,
+   "beat_close_ex_news": 11,
    "first": "2026-10-05",
    "last": "2026-11-20",
    "status": "unproven"
@@ -1142,7 +1142,7 @@
   },
   "ncaab/spread": {
    "key": "ncaab/spread",
-   "flagged": 1,
+   "flagged": 4,
    "settled": 1,
    "wins": 0,
    "losses": 1,
@@ -1167,35 +1167,35 @@
    "n_close_ex_news": 1,
    "beat_close_ex_news": 0,
    "first": "2026-11-01",
-   "last": "2026-11-01",
+   "last": "2026-11-21",
    "status": "unproven"
   },
   "ncaab/ml": {
    "key": "ncaab/ml",
    "flagged": 15,
-   "settled": 13,
-   "wins": 5,
-   "losses": 8,
+   "settled": 15,
+   "wins": 6,
+   "losses": 9,
    "pushes": 0,
-   "hit_rate": 0.38461538461538464,
-   "roi_flat": -0.0660189307039001,
+   "hit_rate": 0.4,
+   "roi_flat": 0.026116926723286582,
    "roi_flat_ci": [
-    -0.8003898145254682,
-    0.668351953117668
+    -0.6896874984865528,
+    0.7419213519331259
    ],
-   "roi_staked": -0.03761443044184714,
-   "n_close": 13,
-   "clv_mean": -0.00024487182447227585,
+   "roi_staked": 0.01235296630557176,
+   "n_close": 15,
+   "clv_mean": 0.000906931978732116,
    "clv_ci": [
-    -0.02862572949056886,
-    0.028135985841624307
+    -0.02366045507909304,
+    0.025474319036557273
    ],
-   "beat_close": 8,
+   "beat_close": 9,
    "n_close_model": 0,
    "n_news": 3,
-   "clv_ex_news_mean": -0.00286667095509338,
-   "n_close_ex_news": 10,
-   "beat_close_ex_news": 6,
+   "clv_ex_news_mean": -0.000989949679317706,
+   "n_close_ex_news": 12,
+   "beat_close_ex_news": 7,
    "first": "2026-11-02",
    "last": "2026-11-20",
    "status": "unproven"
@@ -1293,23 +1293,29 @@
   "nba/total": {
    "key": "nba/total",
    "flagged": 4,
-   "settled": 0,
-   "wins": 0,
-   "losses": 0,
+   "settled": 4,
+   "wins": 1,
+   "losses": 3,
    "pushes": 0,
-   "hit_rate": null,
-   "roi_flat": null,
-   "roi_flat_ci": null,
-   "roi_staked": null,
-   "n_close": 0,
-   "clv_mean": null,
-   "clv_ci": null,
-   "beat_close": 0,
-   "n_close_model": 0,
+   "hit_rate": 0.25,
+   "roi_flat": -0.4675,
+   "roi_flat_ci": [
+    -1.5111999999999999,
+    0.5761999999999998
+   ],
+   "roi_staked": -0.5277888185939159,
+   "n_close": 4,
+   "clv_mean": -0.0023344743781576194,
+   "clv_ci": [
+    -0.029416548424841073,
+    0.024747599668525834
+   ],
+   "beat_close": 2,
+   "n_close_model": 3,
    "n_news": 0,
-   "clv_ex_news_mean": null,
-   "n_close_ex_news": 0,
-   "beat_close_ex_news": 0,
+   "clv_ex_news_mean": -0.0023344743781576194,
+   "n_close_ex_news": 4,
+   "beat_close_ex_news": 2,
    "first": "2026-11-20",
    "last": "2026-11-20",
    "status": "unproven"
@@ -1507,9 +1513,15 @@
    "files": 17,
    "source_commit": "35d8e00d84ca313a05551b9b831831e3753510fb",
    "public_commit": "832995de91a4bc84ed38b17b37ac2ecf3d04ca4a"
+  },
+  {
+   "date": "2026-11-20",
+   "files": 19,
+   "source_commit": "99d9333aab83850f95fa88cbee49a824689dd5cf",
+   "public_commit": "9d564e320a188a0d1f8921f540928ddbfe9db38c"
   }
  ],
- "unbroken_days": 31,
+ "unbroken_days": 32,
  "changelog": [
   [
    "2026-10-03",
@@ -4162,7 +4174,7 @@
    "stake": 4.596832388918226e-05,
    "outcome": 1.0,
    "profit": 0.925925925925926,
-   "clv": -0.10411229015528811,
+   "clv": -0.10410404678160584,
    "clv_basis": "model",
    "news": false
   },
@@ -4178,7 +4190,7 @@
    "stake": 0.013405192265307675,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.08139759944783775,
+   "clv": 0.08139484656399099,
    "clv_basis": "model",
    "news": false
   },
@@ -4322,7 +4334,7 @@
    "stake": 0.0002747747629685843,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.036427089507253374,
+   "clv": 0.03639031537127224,
    "clv_basis": "model",
    "news": false
   },
@@ -4338,7 +4350,7 @@
    "stake": 0.0021321318038875223,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.0033554925795472035,
+   "clv": 0.003385069824273057,
    "clv_basis": "model",
    "news": false
   },
@@ -4370,7 +4382,7 @@
    "stake": 0.0017695547993650251,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.00780861893106477,
+   "clv": -0.007741967360555657,
    "clv_basis": "model",
    "news": false
   },
@@ -4386,7 +4398,7 @@
    "stake": 0.0019205573827752826,
    "outcome": 1.0,
    "profit": 0.8849557522123894,
-   "clv": -0.021050167963017508,
+   "clv": -0.021054829257619145,
    "clv_basis": "model",
    "news": false
   },
@@ -4450,7 +4462,7 @@
    "stake": 0.00035048345428573816,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.012516623255700243,
+   "clv": -0.012546731514785137,
    "clv_basis": "model",
    "news": false
   },
@@ -4482,7 +4494,7 @@
    "stake": 0.013480867418486546,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.031093188364278546,
+   "clv": 0.03117340005112934,
    "clv_basis": "model",
    "news": false
   },
@@ -4514,7 +4526,7 @@
    "stake": 0.0024246895805707085,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.11223156568431825,
+   "clv": 0.11224045513597392,
    "clv_basis": "model",
    "news": false
   },
@@ -4578,7 +4590,7 @@
    "stake": 0.0022314868566916286,
    "outcome": 1.0,
    "profit": 0.8771929824561404,
-   "clv": 0.04070374412644906,
+   "clv": 0.04070735055652752,
    "clv_basis": "model",
    "news": false
   },
@@ -4674,7 +4686,7 @@
    "stake": 0.0015899187144786438,
    "outcome": 1.0,
    "profit": 0.8333333333333335,
-   "clv": 0.024590851391984136,
+   "clv": 0.024587716385590874,
    "clv_basis": "model",
    "news": false
   },
@@ -4706,7 +4718,7 @@
    "stake": 0.0008119272058751448,
    "outcome": 1.0,
    "profit": 0.8849557522123894,
-   "clv": 0.004384821223454183,
+   "clv": 0.004345736836184111,
    "clv_basis": "model",
    "news": false
   },
@@ -4722,7 +4734,7 @@
    "stake": 0.002819008074977169,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.07577145161773557,
+   "clv": 0.07581686882453686,
    "clv_basis": "model",
    "news": false
   },
@@ -5170,7 +5182,7 @@
    "stake": 0.0009010974511241598,
    "outcome": 1.0,
    "profit": 0.9174311926605505,
-   "clv": -0.017553182292420866,
+   "clv": -0.017597389080214465,
    "clv_basis": "model",
    "news": false
   },
@@ -5202,7 +5214,7 @@
    "stake": 0.008866124795965413,
    "outcome": 1.0,
    "profit": 0.8849557522123894,
-   "clv": 0.034027187474730325,
+   "clv": 0.03402951981516433,
    "clv_basis": "model",
    "news": false
   },
@@ -5218,7 +5230,7 @@
    "stake": 0.004904702199668145,
    "outcome": 1.0,
    "profit": 0.8849557522123894,
-   "clv": -0.07134511376057007,
+   "clv": -0.07127857819508854,
    "clv_basis": "model",
    "news": false
   },
@@ -5234,7 +5246,7 @@
    "stake": 0.0011208251076506967,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.018688909833087353,
+   "clv": 0.018659207813226608,
    "clv_basis": "model",
    "news": false
   },
@@ -5250,7 +5262,7 @@
    "stake": 0.006143060775987632,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.1262395969152238,
+   "clv": 0.1262309781002896,
    "clv_basis": "model",
    "news": false
   },
@@ -5266,7 +5278,7 @@
    "stake": 0.00040181273619725635,
    "outcome": 1.0,
    "profit": 0.9174311926605505,
-   "clv": 0.13818103002971716,
+   "clv": 0.13812362513729248,
    "clv_basis": "model",
    "news": false
   },
@@ -5378,7 +5390,7 @@
    "stake": 0.0005698859109893641,
    "outcome": 1.0,
    "profit": 0.8928571428571428,
-   "clv": -0.007755040264524671,
+   "clv": -0.007696066663444356,
    "clv_basis": "model",
    "news": false
   },
@@ -5410,7 +5422,7 @@
    "stake": 0.0007289375506687927,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.025752026325324362,
+   "clv": 0.025687389728510257,
    "clv_basis": "model",
    "news": false
   },
@@ -5426,7 +5438,7 @@
    "stake": 0.0023938211948180766,
    "outcome": 1.0,
    "profit": 0.9174311926605505,
-   "clv": 0.032033990166552506,
+   "clv": 0.032036492684360596,
    "clv_basis": "model",
    "news": false
   },
@@ -5634,7 +5646,7 @@
    "stake": 0.0069753905420664964,
    "outcome": 1.0,
    "profit": 0.8695652173913042,
-   "clv": 0.015315190427955372,
+   "clv": 0.01530929491822941,
    "clv_basis": "model",
    "news": false
   },
@@ -5666,7 +5678,7 @@
    "stake": 0.010782474192563446,
    "outcome": 1.0,
    "profit": 0.8849557522123894,
-   "clv": 0.05766799955456314,
+   "clv": 0.05766985442250128,
    "clv_basis": "model",
    "news": false
   },
@@ -5698,7 +5710,7 @@
    "stake": 0.005933886124243046,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.013717611352465742,
+   "clv": 0.013701914815307248,
    "clv_basis": "model",
    "news": false
   },
@@ -5730,7 +5742,7 @@
    "stake": 0.007026331975347816,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.025546504158385108,
+   "clv": 0.02551120662853057,
    "clv_basis": "model",
    "news": false
   },
@@ -5746,7 +5758,7 @@
    "stake": 0.011990107407145118,
    "outcome": 1.0,
    "profit": 0.8849557522123894,
-   "clv": -0.07886128262752784,
+   "clv": -0.07886948650790782,
    "clv_basis": "model",
    "news": false
   },
@@ -5778,7 +5790,7 @@
    "stake": 0.0059967341915263365,
    "outcome": 1.0,
    "profit": 0.8928571428571428,
-   "clv": 0.009529005382755806,
+   "clv": 0.009516575168030839,
    "clv_basis": "model",
    "news": false
   },
@@ -5842,7 +5854,7 @@
    "stake": 0.007088435796889685,
    "outcome": 1.0,
    "profit": 0.9090909090909092,
-   "clv": -0.0007516531845842556,
+   "clv": -0.0007514486853271718,
    "clv_basis": "model",
    "news": false
   },
@@ -5890,7 +5902,7 @@
    "stake": 0.011412414322638294,
    "outcome": 1.0,
    "profit": 0.8547008547008548,
-   "clv": 0.052823749196438397,
+   "clv": 0.05282910991302103,
    "clv_basis": "model",
    "news": false
   },
@@ -5922,7 +5934,7 @@
    "stake": 0.008332666093749047,
    "outcome": 1.0,
    "profit": 0.925925925925926,
-   "clv": 0.02940548862095471,
+   "clv": 0.029432783747508018,
    "clv_basis": "model",
    "news": false
   },
@@ -5938,7 +5950,7 @@
    "stake": 0.0058296764828561776,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.01994216531193993,
+   "clv": 0.019936461179023368,
    "clv_basis": "model",
    "news": false
   },
@@ -5954,7 +5966,7 @@
    "stake": 0.005923107263413399,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.14143211858619342,
+   "clv": -0.14142479736970492,
    "clv_basis": "model",
    "news": false
   },
@@ -5970,7 +5982,7 @@
    "stake": 0.008193886555303764,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.004434134173514237,
+   "clv": 0.004367863932781324,
    "clv_basis": "model",
    "news": false
   },
@@ -6018,7 +6030,7 @@
    "stake": 0.019562224711643626,
    "outcome": 1.0,
    "profit": 0.8849557522123894,
-   "clv": 0.01259452573953379,
+   "clv": 0.012582021241895558,
    "clv_basis": "model",
    "news": false
   },
@@ -6194,7 +6206,7 @@
    "stake": 0.01148964532256537,
    "outcome": 1.0,
    "profit": 0.9090909090909092,
-   "clv": 0.03102014937790054,
+   "clv": 0.030985132027335105,
    "clv_basis": "model",
    "news": false
   },
@@ -6210,7 +6222,7 @@
    "stake": 0.01978426332485958,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.14327037003494691,
+   "clv": 0.14319153953592978,
    "clv_basis": "model",
    "news": false
   },
@@ -6580,6 +6592,134 @@
    "profit": -1.0,
    "clv": 0.016591217306921868,
    "clv_basis": "books",
+   "news": false
+  },
+  {
+   "report_date": "2026-11-20",
+   "sport": "ncaab",
+   "market": "ml",
+   "side": "away",
+   "label": "Coastal ML",
+   "book": "Novig",
+   "price": 8991,
+   "line": null,
+   "stake": 0.000263743393448864,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.00041501492810907224,
+   "clv_basis": "books",
+   "news": false
+  },
+  {
+   "report_date": "2026-11-20",
+   "sport": "nba",
+   "market": "total",
+   "side": "over",
+   "label": "Over 217.5",
+   "book": "Novig",
+   "price": 115,
+   "line": 217.5,
+   "stake": 0.01653085090071968,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.0021276044901114566,
+   "clv_basis": "model",
+   "news": false
+  },
+  {
+   "report_date": "2026-11-20",
+   "sport": "nba",
+   "market": "total",
+   "side": "over",
+   "label": "Over 234.5",
+   "book": "Novig",
+   "price": 113,
+   "line": 234.5,
+   "stake": 0.010488958245063748,
+   "outcome": 1.0,
+   "profit": 1.13,
+   "clv": 0.03491644091872803,
+   "clv_basis": "rung",
+   "news": false
+  },
+  {
+   "report_date": "2026-11-20",
+   "sport": "ncaab",
+   "market": "ml",
+   "side": "home",
+   "label": "Alabama A&M ML",
+   "book": "BetRivers",
+   "price": 225,
+   "line": null,
+   "stake": 0.002397665885454191,
+   "outcome": 1.0,
+   "profit": 2.25,
+   "clv": 0.0172023283272304,
+   "clv_basis": "books",
+   "news": false
+  },
+  {
+   "report_date": "2026-11-20",
+   "sport": "nba",
+   "market": "total",
+   "side": "over",
+   "label": "Over 240.5",
+   "book": "Novig",
+   "price": 113,
+   "line": 240.5,
+   "stake": 0.010282365864381075,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.025790362336323813,
+   "clv_basis": "model",
+   "news": false
+  },
+  {
+   "report_date": "2026-11-16",
+   "sport": "cfb",
+   "market": "total",
+   "side": "under",
+   "label": "Under 45.5",
+   "book": "Novig",
+   "price": 111,
+   "line": 45.5,
+   "stake": 0.011565320100300409,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.0449168748908379,
+   "clv_basis": "model",
+   "news": false
+  },
+  {
+   "report_date": "2026-11-17",
+   "sport": "cfb",
+   "market": "total",
+   "side": "under",
+   "label": "Under 45.5",
+   "book": "Novig",
+   "price": 108,
+   "line": 45.5,
+   "stake": 0.012522473714166628,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.09011357408393461,
+   "clv_basis": "model",
+   "news": false
+  },
+  {
+   "report_date": "2026-11-20",
+   "sport": "nba",
+   "market": "total",
+   "side": "under",
+   "label": "Under 225.5",
+   "book": "Novig",
+   "price": 111,
+   "line": 225.5,
+   "stake": 0.01001030284235153,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.020591580585146152,
+   "clv_basis": "model",
    "news": false
   }
  ]
