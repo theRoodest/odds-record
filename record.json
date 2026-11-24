@@ -1,63 +1,63 @@
 {
- "built_at": "2026-11-23T06:10-05:00",
+ "built_at": "2026-11-24T06:10-05:00",
  "overall": {
   "key": "all",
-  "flagged": 387,
-  "settled": 344,
+  "flagged": 397,
+  "settled": 348,
   "wins": 104,
-  "losses": 240,
+  "losses": 244,
   "pushes": 0,
-  "hit_rate": 0.3023255813953488,
-  "roi_flat": -0.2572742697124259,
+  "hit_rate": 0.2988505747126437,
+  "roi_flat": -0.2658113470720532,
   "roi_flat_ci": [
-   -0.455149600502601,
-   -0.05939893892225079
+   -0.4615862716562283,
+   -0.07003642248787806
   ],
-  "roi_staked": -0.17108115119609024,
-  "n_close": 377,
-  "clv_mean": 0.006001931640632439,
+  "roi_staked": -0.19206495941803983,
+  "n_close": 381,
+  "clv_mean": 0.005827523477283578,
   "clv_ci": [
-   0.0029492403815682164,
-   0.009054622899696661
+   0.002735682128700297,
+   0.00891936482586686
   ],
-  "beat_close": 228,
-  "n_close_model": 63,
-  "n_news": 11,
-  "clv_ex_news_mean": 0.004687048162699356,
-  "n_close_ex_news": 366,
-  "beat_close_ex_news": 218,
+  "beat_close": 230,
+  "n_close_model": 64,
+  "n_news": 12,
+  "clv_ex_news_mean": 0.004397424497934421,
+  "n_close_ex_news": 369,
+  "beat_close_ex_news": 219,
   "first": "2026-10-03",
-  "last": "2026-11-23",
+  "last": "2026-11-24",
   "status": ""
  },
  "no_golf": {
   "key": "all but golf",
-  "flagged": 211,
-  "settled": 206,
+  "flagged": 221,
+  "settled": 210,
   "wins": 99,
-  "losses": 107,
+  "losses": 111,
   "pushes": 0,
-  "hit_rate": 0.48058252427184467,
-  "roi_flat": -0.06515703291783699,
+  "hit_rate": 0.4714285714285714,
+  "roi_flat": -0.0829635656241639,
   "roi_flat_ci": [
-   -0.20890203068538732,
-   0.07858796484971332
+   -0.22502436828762884,
+   0.05909723703930103
   ],
-  "roi_staked": -0.13213632940146186,
-  "n_close": 201,
-  "clv_mean": 0.0012469306372380003,
+  "roi_staked": -0.15734557249928577,
+  "n_close": 205,
+  "clv_mean": 0.0010155671922509881,
   "clv_ci": [
-   -0.004130845883343899,
-   0.0066247071578199
+   -0.004393503120164953,
+   0.0064246375046669284
   ],
-  "beat_close": 88,
-  "n_close_model": 63,
-  "n_news": 10,
-  "clv_ex_news_mean": -0.0012302035404134059,
-  "n_close_ex_news": 191,
-  "beat_close_ex_news": 79,
+  "beat_close": 90,
+  "n_close_model": 64,
+  "n_news": 11,
+  "clv_ex_news_mean": -0.0016895817733459959,
+  "n_close_ex_news": 194,
+  "beat_close_ex_news": 80,
   "first": "2026-10-03",
-  "last": "2026-11-23",
+  "last": "2026-11-24",
   "status": ""
  },
  "by_sport": {
@@ -136,15 +136,15 @@
    ],
    "roi_staked": -0.3825810643035648,
    "n_close": 24,
-   "clv_mean": -0.002252250479005668,
+   "clv_mean": -0.002247888849832747,
    "clv_ci": [
-    -0.00946271694094805,
-    0.004958215982936713
+    -0.009458372436441886,
+    0.004962594736776392
    ],
    "beat_close": 10,
    "n_close_model": 8,
    "n_news": 0,
-   "clv_ex_news_mean": -0.002252250479005668,
+   "clv_ex_news_mean": -0.002247888849832747,
    "n_close_ex_news": 24,
    "beat_close_ex_news": 10,
    "first": "2026-10-04",
@@ -453,32 +453,32 @@
   },
   "ncaab": {
    "key": "ncaab",
-   "flagged": 29,
-   "settled": 24,
+   "flagged": 39,
+   "settled": 28,
    "wins": 9,
-   "losses": 15,
+   "losses": 19,
    "pushes": 0,
-   "hit_rate": 0.375,
-   "roi_flat": -0.11383361595464103,
+   "hit_rate": 0.32142857142857145,
+   "roi_flat": -0.2404288136754066,
    "roi_flat_ci": [
-    -0.6177452753160536,
-    0.39007804340677155
+    -0.6866221561446803,
+    0.205764528793867
    ],
-   "roi_staked": -0.19066075864302406,
-   "n_close": 24,
-   "clv_mean": 0.003796499264107691,
+   "roi_staked": -0.30707508496676045,
+   "n_close": 28,
+   "clv_mean": 0.0017346256987517544,
    "clv_ci": [
-    -0.016951768589817857,
-    0.02454476711803324
+    -0.018159850554770974,
+    0.021629101952274483
    ],
-   "beat_close": 14,
-   "n_close_model": 4,
-   "n_news": 5,
-   "clv_ex_news_mean": -0.005634108021502449,
-   "n_close_ex_news": 19,
-   "beat_close_ex_news": 10,
+   "beat_close": 16,
+   "n_close_model": 5,
+   "n_news": 6,
+   "clv_ex_news_mean": -0.009089214514493611,
+   "n_close_ex_news": 22,
+   "beat_close_ex_news": 11,
    "first": "2026-11-01",
-   "last": "2026-11-23",
+   "last": "2026-11-24",
    "status": ""
   }
  },
@@ -648,15 +648,15 @@
    ],
    "roi_staked": -0.33830790714992065,
    "n_close": 18,
-   "clv_mean": -0.0005078494998366797,
+   "clv_mean": -0.000502033994272785,
    "clv_ci": [
-    -0.008843127878545819,
-    0.007827428878872458
+    -0.008837063949566615,
+    0.007832995961021046
    ],
    "beat_close": 8,
    "n_close_model": 8,
    "n_news": 0,
-   "clv_ex_news_mean": -0.0005078494998366797,
+   "clv_ex_news_mean": -0.000502033994272785,
    "n_close_ex_news": 18,
    "beat_close_ex_news": 8,
    "first": "2026-10-04",
@@ -1142,62 +1142,62 @@
   },
   "ncaab/spread": {
    "key": "ncaab/spread",
-   "flagged": 9,
-   "settled": 6,
+   "flagged": 14,
+   "settled": 8,
    "wins": 1,
-   "losses": 5,
+   "losses": 7,
    "pushes": 0,
-   "hit_rate": 0.16666666666666666,
-   "roi_flat": -0.673076923076923,
+   "hit_rate": 0.125,
+   "roi_flat": -0.7548076923076923,
    "roi_flat_ci": [
-    -1.3138461538461539,
-    -0.03230769230769226
+    -1.2353846153846155,
+    -0.27423076923076917
    ],
-   "roi_staked": -0.6793078365629973,
-   "n_close": 6,
-   "clv_mean": -0.002267193042613367,
+   "roi_staked": -0.7481771140013783,
+   "n_close": 8,
+   "clv_mean": 0.010976772597155036,
    "clv_ci": [
-    -0.03171421420905534,
-    0.027179828123828607
+    -0.01647010588105647,
+    0.03842365107536654
    ],
-   "beat_close": 3,
-   "n_close_model": 3,
-   "n_news": 1,
-   "clv_ex_news_mean": -0.011341465735980726,
-   "n_close_ex_news": 5,
-   "beat_close_ex_news": 2,
+   "beat_close": 5,
+   "n_close_model": 4,
+   "n_news": 2,
+   "clv_ex_news_mean": -0.0009430322972934316,
+   "n_close_ex_news": 6,
+   "beat_close_ex_news": 3,
    "first": "2026-11-01",
-   "last": "2026-11-23",
+   "last": "2026-11-24",
    "status": "unproven"
   },
   "ncaab/ml": {
    "key": "ncaab/ml",
-   "flagged": 19,
-   "settled": 17,
+   "flagged": 24,
+   "settled": 19,
    "wins": 7,
-   "losses": 10,
+   "losses": 12,
    "pushes": 0,
-   "hit_rate": 0.4117647058823529,
-   "roi_flat": 0.026573758873488163,
+   "hit_rate": 0.3684210526315789,
+   "roi_flat": -0.08148663679740532,
    "roi_flat_ci": [
-    -0.6257697649646377,
-    0.6789172827116139
+    -0.6811815397549474,
+    0.5182082661601368
    ],
-   "roi_staked": 0.01160685924776497,
-   "n_close": 17,
-   "clv_mean": 0.01019249337286983,
+   "roi_staked": -0.09565287591410179,
+   "n_close": 19,
+   "clv_mean": 0.0015425571332805868,
    "clv_ci": [
-    -0.01609697822114879,
-    0.03648196496688845
+    -0.02469433313579932,
+    0.027779447402360494
    ],
    "beat_close": 11,
    "n_close_model": 0,
    "n_news": 4,
-   "clv_ex_news_mean": 0.001400963308913805,
-   "n_close_ex_news": 13,
+   "clv_ex_news_mean": -0.008383418586038433,
+   "n_close_ex_news": 15,
    "beat_close_ex_news": 8,
    "first": "2026-11-02",
-   "last": "2026-11-23",
+   "last": "2026-11-24",
    "status": "proven"
   },
   "nba/ml": {
@@ -1561,9 +1561,15 @@
    "files": 20,
    "source_commit": "698b0359e440d544adb3005c76bc1c1abe60b651",
    "public_commit": "0153945c4250888e8e066dc3d0bfd9355a0d0db1"
+  },
+  {
+   "date": "2026-11-23",
+   "files": 19,
+   "source_commit": "d2e90a6a06b66631c564c30ff4a0d473e00129bf",
+   "public_commit": "6f01808553891897fe5f3e6b7dc7c437caec1a1b"
   }
  ],
- "unbroken_days": 34,
+ "unbroken_days": 35,
  "changelog": [
   [
    "2026-10-03",
@@ -4280,7 +4286,7 @@
    "stake": 0.004139692354931568,
    "outcome": 1.0,
    "profit": 0.925925925925926,
-   "clv": -0.012936264315066337,
+   "clv": -0.012934213449102172,
    "clv_basis": "model",
    "news": false
   },
@@ -5000,7 +5006,7 @@
    "stake": 0.001627166466202051,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.0009333816088272773,
+   "clv": -0.0009121276739521011,
    "clv_basis": "model",
    "news": false
   },
@@ -5048,7 +5054,7 @@
    "stake": 0.0015611607059985901,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.019691095902178324,
+   "clv": 0.01970627512055312,
    "clv_basis": "model",
    "news": false
   },
@@ -5512,7 +5518,7 @@
    "stake": 0.0060651541728040295,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.024408792223590603,
+   "clv": 0.02443005884294891,
    "clv_basis": "model",
    "news": false
   },
@@ -5880,7 +5886,7 @@
    "stake": 0.006399544612618672,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.01887770177230419,
+   "clv": 0.018819150811183905,
    "clv_basis": "model",
    "news": false
   },
@@ -6088,7 +6094,7 @@
    "stake": 0.005424362336029495,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.000508994977210131,
+   "clv": -0.0005089296380751396,
    "clv_basis": "model",
    "news": false
   },
@@ -6104,7 +6110,7 @@
    "stake": 0.004472669980385348,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": 0.00086314086873851,
+   "clv": 0.0009675754449914864,
    "clv_basis": "model",
    "news": false
   },
@@ -7096,7 +7102,7 @@
    "stake": 0.009140331622329287,
    "outcome": -1.0,
    "profit": -1.0,
-   "clv": -0.01768719707300692,
+   "clv": -0.01768821756569694,
    "clv_basis": "model",
    "news": false
   },
@@ -7115,6 +7121,70 @@
    "clv": 0.12957648849011344,
    "clv_basis": "books",
    "news": true
+  },
+  {
+   "report_date": "2026-11-23",
+   "sport": "ncaab",
+   "market": "spread",
+   "side": "away",
+   "label": "Akron +1.5",
+   "book": "Novig",
+   "price": 108,
+   "line": 1.5,
+   "stake": 0.010739365841928404,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.05036820413677745,
+   "clv_basis": "rung",
+   "news": true
+  },
+  {
+   "report_date": "2026-11-23",
+   "sport": "ncaab",
+   "market": "spread",
+   "side": "away",
+   "label": "Yale +2.5",
+   "book": "Novig",
+   "price": 108,
+   "line": 2.5,
+   "stake": 0.009619605091389278,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": 0.051049134896143045,
+   "clv_basis": "model",
+   "news": false
+  },
+  {
+   "report_date": "2026-11-23",
+   "sport": "ncaab",
+   "market": "ml",
+   "side": "away",
+   "label": "Temple ML",
+   "book": "FanDuel",
+   "price": -192,
+   "line": null,
+   "stake": 0.008218923264164221,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.0834722532178408,
+   "clv_basis": "books",
+   "news": false
+  },
+  {
+   "report_date": "2026-11-23",
+   "sport": "ncaab",
+   "market": "ml",
+   "side": "home",
+   "label": "Santa Clara ML",
+   "book": "Novig",
+   "price": -186,
+   "line": null,
+   "stake": 0.005865377566582494,
+   "outcome": -1.0,
+   "profit": -1.0,
+   "clv": -0.06049154858861516,
+   "clv_basis": "books",
+   "news": false
   }
  ]
 }
